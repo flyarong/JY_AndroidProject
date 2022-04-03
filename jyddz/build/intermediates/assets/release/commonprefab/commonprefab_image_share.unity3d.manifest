@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2445073325
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01af70426b8c0878ce4f19af38f0c4d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Image/Share/share_bg_qrcord.png
+- Assets/Game/CommonPrefab/Image/Share/com_award_icon_jingbi.png
+- Assets/Game/CommonPrefab/Image/Share/share_bg.jpg
+- Assets/Game/CommonPrefab/Image/Share/touxiangkuang.png
+- Assets/Game/CommonPrefab/Image/Share/com_award_icon_money.png
+- Assets/Game/CommonPrefab/Image/Share/share_bg_million.png
+- Assets/Game/CommonPrefab/Image/Share/small_icon.png
+- Assets/Game/CommonPrefab/Image/Share/share_imgf_title_share.png
+- Assets/Game/CommonPrefab/Image/Share/share_btn_wx_circle.png
+- Assets/Game/CommonPrefab/Image/Share/share_btn_wx_friend.png
+- Assets/Game/CommonPrefab/Image/Share/erweimabg.png
+Dependencies: []

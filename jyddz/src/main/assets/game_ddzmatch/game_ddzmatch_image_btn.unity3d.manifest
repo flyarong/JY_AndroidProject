@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 494928724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d69ca8802e990d9cdc1383f065ef03e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMatch/Image/btn/ddz_circle_bkg.png
+- Assets/Game/game_DdzMatch/Image/btn/ddz_circle.png
+- Assets/Game/game_DdzMatch/Image/btn/match_btn_bsgz.png
+- Assets/Game/game_DdzMatch/Image/btn/matchpop_imgf_baoming.png
+- Assets/Game/game_DdzMatch/Image/btn/match_imgf_conversion.png
+- Assets/Game/game_DdzMatch/Image/btn/matchpop_bg_rule.png
+- Assets/Game/game_DdzMatch/Image/btn/jinbiaosai_t3.png
+- Assets/Game/game_DdzMatch/Image/btn/match_btn_court_4.png
+- Assets/Game/game_DdzMatch/Image/btn/match_btn_court_3.png
+- Assets/Game/game_DdzMatch/Image/btn/matchpop_btn_close.png
+- Assets/Game/game_DdzMatch/Image/btn/match_btn_court_2.png
+- Assets/Game/game_DdzMatch/Image/btn/match_btn_court_1.png
+Dependencies: []

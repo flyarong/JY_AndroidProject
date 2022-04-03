@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1295441142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f84ff98c8c1e3661c000bac502e28bc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/normal_mj_common/normal_mj_common_lua/Game@normal_mj_common@Lua@MjCard.lua.bytes
+- Assets/_LUA_/normal_mj_common/normal_mj_common_lua/Game@normal_mj_common@Lua@MjAnimation.lua.bytes
+- Assets/_LUA_/normal_mj_common/normal_mj_common_lua/Game@normal_mj_common@Lua@normal_majiang_lib.lua.bytes
+- Assets/_LUA_/normal_mj_common/normal_mj_common_lua/Game@normal_mj_common@Lua@normal_majiang_enum.lua.bytes
+Dependencies: []

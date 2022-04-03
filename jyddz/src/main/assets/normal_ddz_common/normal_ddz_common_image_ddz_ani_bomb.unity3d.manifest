@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1497933239
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 295950a97a4cd746d98483d925eb7c1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/ddz_ani_bomb/ddz_ani_bomb4.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_bomb/ddz_ani_bomb5.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_bomb/bomb1.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_bomb/ddz_ani_bomb7.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_bomb/ddz_ani_bomb2.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_bomb/ddz_ani_bomb6.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_bomb/ddz_ani_bomb8.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_bomb/bomb2.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_bomb/ddz_ani_bomb1.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_bomb/ddz_ani_bomb3.png
+Dependencies: []

@@ -1,0 +1,105 @@
+ManifestFileVersion: 0
+CRC: 66531931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 473386faf071ae98c542b1989e064a83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4432b07666145124953ecc38476c9742
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a060dad8163105d4da1cc26772eec321, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74940fda249543748ac4eb281a76f7a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e86ebbc782f0f64d809698999d8dcf6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_MjXz/Prefab/game_MjXz_Prefab_Desc.txt
+- Assets/Game/game_MjXz/Prefab/MjXzClearing.prefab
+- Assets/Game/game_MjXz/Prefab/MjXzHallPanel.prefab
+- Assets/Game/game_MjXz/Prefab/MjXzGangsRect.prefab
+- Assets/Game/game_MjXz/Prefab/MjXzHallPanelTypeItem.prefab
+- Assets/Game/game_MjXz/Prefab/MjXzGamePanel.prefab
+- Assets/Game/game_MjXz/Prefab/MjXzHallPanelTypeContent.prefab
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_animation.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_fzy3jw.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_fzy4jw.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_image_font.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_bg.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_comone.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_setting.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_material.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_animation.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_font_mj_num_fan.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_font_mj_num_residue.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_font_mj_timer_num_blue.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_font_mj_timer_num_red.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_image_animation.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_image_hall.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_image_image_bg.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_image_image_mj_pai.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_image_image.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_image_majiang_huase.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_image.unity3d

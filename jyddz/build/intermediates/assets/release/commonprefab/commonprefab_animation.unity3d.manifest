@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2007042055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db86b9a1092e1f33bad96f613aec3690
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Animation/Image.controller
+- Assets/Game/CommonPrefab/Animation/LoopRotaAnim.anim
+- Assets/Game/CommonPrefab/Animation/peizhuo.controller
+- Assets/Game/CommonPrefab/Animation/peizhuo.anim
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2430521461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c50650d14fe66dfa4de2fd80b1fae9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMatch/Image/matchpop_bg_toumingdk.png
+- Assets/Game/game_DdzMatch/Image/matchpop_bg_toumingdk_b.png
+- Assets/Game/game_DdzMatch/Image/match_imgf_jinbiaosai.png
+- Assets/Game/game_DdzMatch/Image/match_bg_award_jyb.png
+- Assets/Game/game_DdzMatch/Image/match_icon_conversion.png
+- Assets/Game/game_DdzMatch/Image/matchpop_bg_toumingdk2.png
+- Assets/Game/game_DdzMatch/Image/settlement_bg_win.png
+- Assets/Game/game_DdzMatch/Image/settlement_bg_lose.png
+Dependencies: []

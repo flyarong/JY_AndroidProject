@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1984588140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eee9b8515dfc7ed0f86e3cfd065b8644
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@mjxl_drivingrange_award.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlPgManager.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlPlayerManger.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlClearing.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlGamePanel.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlLogic.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlHelpDesc.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlHuMjCard.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@mjxl_freestyle_ui.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlHallPanel.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlGangsRect.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlYiChuPaiManager.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlShouPaiManger.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlModel.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlMyShouPaiManger.lua.bytes
+- Assets/_LUA_/game_mjxl/game_mjxl_lua/Game@game_MjXl@Lua@MjXlPairdesk.lua.bytes
+Dependencies: []

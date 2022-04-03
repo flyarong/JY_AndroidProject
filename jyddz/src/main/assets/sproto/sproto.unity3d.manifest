@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1374453190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e702b48fdca3fde9d2f258d5974d226
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Sproto/whole_proto_c2s.txt
+- Assets/Game/Sproto/whole_proto_s2c.txt
+Dependencies: []

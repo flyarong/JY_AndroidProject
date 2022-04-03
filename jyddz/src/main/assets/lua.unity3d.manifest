@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 924141801
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 317c2211c54e2bf4da00c205eeec835e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/lua/event.lua.bytes
+- Assets/_LUA_/lua/jit@dis_ppc.lua.bytes
+- Assets/_LUA_/lua/misc@misc.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Touch.lua.bytes
+- Assets/_LUA_/lua/jit@vmdef.lua.bytes
+- Assets/_LUA_/lua/jit@zone.lua.bytes
+- Assets/_LUA_/lua/jit@v.lua.bytes
+- Assets/_LUA_/lua/protobuf@containers.lua.bytes
+- Assets/_LUA_/lua/socket@ftp.lua.bytes
+- Assets/_LUA_/lua/protobuf@type_checkers.lua.bytes
+- Assets/_LUA_/lua/protobuf@text_format.lua.bytes
+- Assets/_LUA_/lua/protobuf@wire_format.lua.bytes
+- Assets/_LUA_/lua/lpeg@re.lua.bytes
+- Assets/_LUA_/lua/list.lua.bytes
+- Assets/_LUA_/lua/protobuf@listener.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Ray.lua.bytes
+- Assets/_LUA_/lua/protobuf@protobuf.lua.bytes
+- Assets/_LUA_/lua/jit@dis_mips64.lua.bytes
+- Assets/_LUA_/lua/misc@strict.lua.bytes
+- Assets/_LUA_/lua/jit@dump.lua.bytes
+- Assets/_LUA_/lua/cjson@util.lua.bytes
+- Assets/_LUA_/lua/System@Timer.lua.bytes
+- Assets/_LUA_/lua/socket@url.lua.bytes
+- Assets/_LUA_/lua/jit@dis_arm.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Quaternion.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Profiler.lua.bytes
+- Assets/_LUA_/lua/jit@dis_arm64be.lua.bytes
+- Assets/_LUA_/lua/protobuf@descriptor.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Bounds.lua.bytes
+- Assets/_LUA_/lua/jit@dis_mips.lua.bytes
+- Assets/_LUA_/lua/jit@bcsave.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Vector2.lua.bytes
+- Assets/_LUA_/lua/jit@dis_mips64el.lua.bytes
+- Assets/_LUA_/lua/jit@dis_x64.lua.bytes
+- Assets/_LUA_/lua/protobuf@decoder.lua.bytes
+- Assets/_LUA_/lua/jit@p.lua.bytes
+- Assets/_LUA_/lua/socket@tp.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Plane.lua.bytes
+- Assets/_LUA_/lua/socket.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@LayerMask.lua.bytes
+- Assets/_LUA_/lua/protobuf@encoder.lua.bytes
+- Assets/_LUA_/lua/socket@http.lua.bytes
+- Assets/_LUA_/lua/tolua.lua.bytes
+- Assets/_LUA_/lua/jit@dis_arm64.lua.bytes
+- Assets/_LUA_/lua/socket@smtp.lua.bytes
+- Assets/_LUA_/lua/misc@utf8.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Color.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Vector3.lua.bytes
+- Assets/_LUA_/lua/jit@bc.lua.bytes
+- Assets/_LUA_/lua/socket@mbox.lua.bytes
+- Assets/_LUA_/lua/slot.lua.bytes
+- Assets/_LUA_/lua/jit@dis_x86.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@RaycastHit.lua.bytes
+- Assets/_LUA_/lua/System@Reflection@BindingFlags.lua.bytes
+- Assets/_LUA_/lua/System@ValueType.lua.bytes
+- Assets/_LUA_/lua/socket@headers.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Vector4.lua.bytes
+- Assets/_LUA_/lua/typeof.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Time.lua.bytes
+- Assets/_LUA_/lua/System@coroutine.lua.bytes
+- Assets/_LUA_/lua/ltn12.lua.bytes
+- Assets/_LUA_/lua/UnityEngine@Mathf.lua.bytes
+- Assets/_LUA_/lua/mime.lua.bytes
+- Assets/_LUA_/lua/misc@functions.lua.bytes
+- Assets/_LUA_/lua/jit@dis_mipsel.lua.bytes
+Dependencies: []

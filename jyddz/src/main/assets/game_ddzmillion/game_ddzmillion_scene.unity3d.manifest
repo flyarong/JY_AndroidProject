@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3688820359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac441b00cd30e2db91c3bf687d0e917b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Game/game_DdzMillion/game_DdzMillion.unity
+Dependencies: []

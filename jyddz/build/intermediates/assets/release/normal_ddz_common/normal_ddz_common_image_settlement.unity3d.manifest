@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 240056205
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57966c4fa29079043ca356da466f0b5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/settlement/account_icon_first.png
+- Assets/Game/normal_ddz_common/Image/settlement/ddz_icon_rain.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_star_gray.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_icon_trmpet_win.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_bg_text.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_bg_hint.png
+- Assets/Game/normal_ddz_common/Image/settlement/settlement_bg_award.png
+- Assets/Game/normal_ddz_common/Image/settlement/settlement_imgf_title_final.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_title_gameover.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_star_yellow.png
+- Assets/Game/normal_ddz_common/Image/settlement/million_imgf_win.png
+- Assets/Game/normal_ddz_common/Image/settlement/ddz_icon_win.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_icon_second.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_icon_third.png
+- Assets/Game/normal_ddz_common/Image/settlement/settlement_imgf_title_youwin.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_icon_trmpet_lose.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_title_gongxi.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_btn_xuanyao.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_title_promoted.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_btn_zailai.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_title_spring.png
+- Assets/Game/normal_ddz_common/Image/settlement/ddz_com_bg_title_win.png
+- Assets/Game/normal_ddz_common/Image/settlement/settlement_imgf_title_youlose.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_title_taotai.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_light_lose.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_btn_qiuanwei.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_icon_nongming.png
+- Assets/Game/normal_ddz_common/Image/settlement/account_icon_dizhu.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1472714726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fadc2969ce4dbd7c3049e8210c7660db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40f263c5ff4b5cff638d517bfbbdd438
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Animation/DingQue.anim
+- Assets/Game/normal_mj_common/Animation/ItemCurrMjHint.controller
+- Assets/Game/normal_mj_common/Animation/dingqueHint.controller
+- Assets/Game/normal_mj_common/Animation/FXBG.controller
+- Assets/Game/normal_mj_common/Animation/normal_mj_common_Animation_Desc.txt
+- Assets/Game/normal_mj_common/Animation/SaiZiAnim.anim
+- Assets/Game/normal_mj_common/Animation/AniZhiShiDeng.anim
+- Assets/Game/normal_mj_common/Animation/AniItemCurrMjHint.anim
+- Assets/Game/normal_mj_common/Animation/SaiZiAnimNode.controller
+Dependencies: []

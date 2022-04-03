@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 703096309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62a96b948f3ae53b901323ac799ece34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket13.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket4.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket7.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket15.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket6.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket5.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/game_imgf_kingbomb.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket12.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket2.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/game_imgf_bomb.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/rocket_fire1.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/Missile.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket14.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket8.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket3.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket11.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket9.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket16.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket1.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/ddz_ani_rocket10.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_rocket/rocket_fire2.png
+Dependencies: []

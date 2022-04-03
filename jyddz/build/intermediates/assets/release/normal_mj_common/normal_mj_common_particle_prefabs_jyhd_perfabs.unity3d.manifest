@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 169837606
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c2a3c7bdf76e17bdd644a5141f71594
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 81acb244dd304da02026a05daefde728
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJFanPai.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJZiMo_1.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJHu_3.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJZiMo_3.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJHu_2.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJHintPeng.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJZiMo_2.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJG_GF.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJG_XY.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleJieSuanWin.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJKaiJu.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJHintGane.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleJieSuanLose.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJHu_1.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJDQSwitch.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleHeadLiuGuang.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJMoPai.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJHintHu.prefab
+- Assets/Game/normal_mj_common/Particle/Prefabs/JYHD_perfabs/ParticleMJDQIcon.prefab
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_particle.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_material.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_image_ui_bg.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_image_ui_imgf.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_particle_animtaion_animtaion.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_particle_psd_file_jyhd_psd_majiang.unity3d

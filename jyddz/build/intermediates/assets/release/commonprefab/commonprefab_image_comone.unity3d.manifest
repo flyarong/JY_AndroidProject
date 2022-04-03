@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3348329480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f01d3e1a5330b7a4c8dccecec13c358
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Image/comone/hint_bg_black.png
+- Assets/Game/CommonPrefab/Image/comone/game_icon_robot.png
+- Assets/Game/CommonPrefab/Image/comone/shareIcon.png
+- Assets/Game/CommonPrefab/Image/comone/hall_bg_notice.png
+- Assets/Game/CommonPrefab/Image/comone/ddz_font_inconformity.png
+- Assets/Game/CommonPrefab/Image/comone/compop_bg_title.png
+- Assets/Game/CommonPrefab/Image/comone/settlement_btn_particulars.png
+- Assets/Game/CommonPrefab/Image/comone/me_font_sure_2.png
+- Assets/Game/CommonPrefab/Image/comone/hint_bg_title_popup.png
+- Assets/Game/CommonPrefab/Image/comone/com_loading.png
+- Assets/Game/CommonPrefab/Image/comone/error888.png
+- Assets/Game/CommonPrefab/Image/comone/error8888.png
+- Assets/Game/CommonPrefab/Image/comone/ddz_btn_cancel.png
+- Assets/Game/CommonPrefab/Image/comone/freetable_imgf_lose.png
+- Assets/Game/CommonPrefab/Image/comone/compop_bg_toumingdk.png
+- Assets/Game/CommonPrefab/Image/comone/glow.png
+- Assets/Game/CommonPrefab/Image/comone/freetable_bg_win_1.png
+- Assets/Game/CommonPrefab/Image/comone/hall_bg_head2.png
+- Assets/Game/CommonPrefab/Image/comone/ddz_bg_3.png
+- Assets/Game/CommonPrefab/Image/comone/match_btn_yellow.png
+- Assets/Game/CommonPrefab/Image/comone/iconJY.png
+- Assets/Game/CommonPrefab/Image/comone/freetable_imgf_win.png
+- Assets/Game/CommonPrefab/Image/comone/hint_imgf_title_hint.png
+- Assets/Game/CommonPrefab/Image/comone/com_imgf_sl.png
+- Assets/Game/CommonPrefab/Image/comone/settlement_imgf_title_zjzl.png
+- Assets/Game/CommonPrefab/Image/comone/settlement_btn_apply.png
+- Assets/Game/CommonPrefab/Image/comone/com_imgf_zjzl.png
+- Assets/Game/CommonPrefab/Image/comone/com_imgf_hint.png
+- Assets/Game/CommonPrefab/Image/comone/compop_bg_toumingdk_b.png
+- Assets/Game/CommonPrefab/Image/comone/hall_bg_head.png
+- Assets/Game/CommonPrefab/Image/comone/match_btn_blue.png
+Dependencies: []

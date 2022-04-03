@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 1802965419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f404cbf948e1d89ca0b0a1e18b5c9be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi8.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_block.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi11.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_ting.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi9.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi6.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_heart.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr5.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_joker_a1.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb13.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr15.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_2.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi12.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi4.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_spade.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi5.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb8.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_poker1.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_1.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr3.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_joker_b1.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi14.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_frame.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb11.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi3.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_joker_a2.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi15.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr9.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_laizi.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb9.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb5.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi10.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_joker_b2.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr8.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr12.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr4.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_4.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr14.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_dizhutag.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_joker_b.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr6.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi7.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb7.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb4.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr7.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_joker_a.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_3.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_laizi13.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_plum.png
+- Assets/Game/normal_ddz_common/Image/poker_element/c_ting.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_poker.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr11.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb3.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb14.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb15.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb10.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb12.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr10.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nb6.png
+- Assets/Game/normal_ddz_common/Image/poker_element/poker_icon_nr13.png
+Dependencies: []

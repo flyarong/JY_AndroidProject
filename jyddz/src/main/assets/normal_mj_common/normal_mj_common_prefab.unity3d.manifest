@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 3845111605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28c302b4a623fa5ffa987bc06d495978
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d0c1787d4d62488939c2d08852d05df3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Prefab/MjCard.prefab
+- Assets/Game/normal_mj_common/Prefab/ItemCurrMjHint.prefab
+- Assets/Game/normal_mj_common/Prefab/normal_mj_common_Prefab_Desc.txt
+- Assets/Game/normal_mj_common/Prefab/ItemMjPGH.prefab
+- Assets/Game/normal_mj_common/Prefab/TingPaiArrow.prefab
+- Assets/Game/normal_mj_common/Prefab/ItemFXBG.prefab
+- Assets/Game/normal_mj_common/Prefab/ItemMjScoreAdd.prefab
+- Assets/Game/normal_mj_common/Prefab/ItemMjScoreRem.prefab
+- Assets/Game/normal_mj_common/Prefab/ItemMjHuPaiAni.prefab
+- Assets/Game/normal_mj_common/Prefab/ItemDingQueHint.prefab
+- Assets/Game/normal_mj_common/Prefab/ItemLast4Pai.prefab
+- Assets/Game/normal_mj_common/Prefab/ItemMjHuPai.prefab
+- Assets/Game/normal_mj_common/Prefab/ItemMjGameHint.prefab
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_fzy3jw.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_image_font.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_comone.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_animation.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_mj_common/normal_mj_common_image_image.unity3d

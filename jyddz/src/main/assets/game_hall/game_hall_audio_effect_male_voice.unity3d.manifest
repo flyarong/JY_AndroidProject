@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 3768772000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 624de5eed357cca7b38f793e03703d3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_four_with_one_pair.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_call_dizhu.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/male_yizou.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair9.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_3_point.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair6.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_2.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_1.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_3.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_no.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pass.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_shunzi.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair4.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_I_got_left_two_cards_erdou.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/male_zhade.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_I_got_left_one_cards_erdou.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/male_wozha.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_I_got_left_one_cards.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_8.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_three_with_one_pair.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_2_point.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_rocket.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/male_wodeng.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_13.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_14.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/male_boyibo.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_not_call.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_bujiabei.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/male_guniang.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_4.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair3.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_1_point.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_not_rob.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair5.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair11.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair12.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_I_got_left_two_cards.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/male_fengchui.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_5.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_10.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_jiabei.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair8.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_9.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_four_with_two.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair1.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_bomb.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_7.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_aircraft_with_wings.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_6.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_three_with_one.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_mingpai.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_0.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair0.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair10.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_rob_dizhu.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_three_one.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair2.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_pair7.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_12.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_continuous_pair.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_11.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/man_airplane.mp3
+- Assets/Game/game_Hall/Audio/effect/male_voice/male_zhenpa.mp3
+Dependencies: []

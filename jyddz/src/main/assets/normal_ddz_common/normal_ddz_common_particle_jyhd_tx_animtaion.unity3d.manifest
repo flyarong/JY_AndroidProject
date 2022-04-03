@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1184182752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67edfa302167bb7551d85d3c224284b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f77eea2624f7758fb2f4686f7ac7b73
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Animtaion/huodejiangli.controller
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Animtaion/Ddz_JieSuan_jingji.anim
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Animtaion/DDZ_shengli 1.controller
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Animtaion/huangguan.controller
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Animtaion/Ddz_JieSuan_win.anim
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Animtaion/Ddz_JieSuan_jingji.controller
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Animtaion/huodejiangli.anim
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Animtaion/jiesuan 1.anim
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Animtaion/Ddz_huangguan.anim
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Animtaion/Ddz_JieSuan_win.controller
+Dependencies: []

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7443096731009c4f1edb3f24ae945743c1ad23b7">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\unity-classes_2e02177b3761ba5d9d88dbf967d9fc901bb748ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\libs\umeng-common-1.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4862353900994359ee2b2c2f9667413978cbb0cf">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\umeng-common-1.5.3_c5f9b01c2e7a9d428ef4833f3c50cdf19853fd92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7cb25a8f3ca7abf7d0c0a16037d7a1c4fff24f47">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\classes_86e4af937b134f43ba255c422cb686ef443c6217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\libs\utdid4all-1.1.5.3_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="989c3bb13060da1e3154bfe00236f76453a2725f">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\utdid4all-1.1.5.3_proguard_1888572fa22e41c2e258150b8d58faa77ebf38be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\libs\WebViewPlugin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0d6404b297c60066a8908a9896e67fbd2de2fd52">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\WebViewPlugin_d89ba89eca816a3b4e36084f4e14ff9ae94c71cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\libs\alicloud-android-sdk-httpdns-1.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1d61bb0f23861e5b86d4308a9ed2a4751e95fe03">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\alicloud-android-sdk-httpdns-1.0.7_9366b8338ea75700d8c8915e29a715289a37a303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\unity-android-resources\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1f31f61ba2d0f0f9ecaa6298138e0ec3d055bd2c">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\classes_3db51742532c8c03207eb928b0250b35fdaebae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\libammsdk_1748bb20c2808918ea87c3036c7f59e38348f5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\libs\umeng-push-3.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44a6c995fe9549773676b4348784eb865d0dad65">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\umeng-push-3.3.3_d77d209b9bfb8cd9ce24382d340608df13d09d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\libs\uniClipboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac44834826f5df272b23bcc70886009263047a80">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\uniClipboard_79d2c30ed84fc6ed253b3a51cf376fe99cd15c80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JY\AndroidProject\jyddz\libs\unity_common.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="23c88339b4eb90992285caa8b71dac59a7e048d1">
+        <dex dex="E:\JY\AndroidProject\jyddz\build\intermediates\pre-dexed\release\unity_common_783e53fbb1a7619631fe6e015b07cc540fc24990.jar" />
+    </item>
+
+</items>

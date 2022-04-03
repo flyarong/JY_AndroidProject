@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3599645516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa01d330b65e17826f1cf4de52b702dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzFree/Image/freetable_bg_bar_2.png
+- Assets/Game/game_DdzFree/Image/freetable_icon_own_1.png
+- Assets/Game/game_DdzFree/Image/freetable_bg_bar_1.png
+- Assets/Game/game_DdzFree/Image/freetable_icon_light_1.png
+- Assets/Game/game_DdzFree/Image/freetable_bg_lose_1.png
+- Assets/Game/game_DdzFree/Image/freetable_bg_practice.png
+- Assets/Game/game_DdzFree/Image/freetable_icon_diamond_1.png
+- Assets/Game/game_DdzFree/Image/freetable_btn_icon.png
+Dependencies: []

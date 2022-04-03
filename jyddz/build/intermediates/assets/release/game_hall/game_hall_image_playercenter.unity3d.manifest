@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 3142753540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d32d33ffb10f3e9a574393444ede0f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_background.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_btn_binding.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_imgf_title_collection.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_playground.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_text.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_font_sure_1.png
+- "Assets/Game/game_Hall/Image/PlayerCenter/me_icon_\uFF1F.png"
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_no.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_btn_verificationcode_gray.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_me.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_fg.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_pop_fg.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_second.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_btn_autonym.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_imgf_title_shipping address.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_site_pop.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_font_verifide.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_font_withdraw.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_free field.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_imgf_title_autonym.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_sex.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_binding.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_font_sure_3.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_down.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_btn_amend.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_fg1.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_message.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_font_fill_in.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_imgf_title_phone2.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_font_binding_2.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_btn_binding_gray.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_site.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_dizhu.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_nongming.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_btn_click.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_playground.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_click.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_first.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_font_binding_sure.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_btn_verificationcode.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_imgf_title_phone.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_yes.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_authenticated.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_imgf_title.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_third.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_font_modify.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_free money.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_imgf_title_Alipay.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_bg_fg2.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_icon_up.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_btn_withdraw.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_font_get_code.png
+- Assets/Game/game_Hall/Image/PlayerCenter/me_font_binding_1.png
+Dependencies: []

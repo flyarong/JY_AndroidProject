@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3047737398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63bfa1570097ea4a57c3622492eecbc4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/common/common/Game@Common@tools.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@pay_switch.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@3rd@cjson@util.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@StringHelper.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@define.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@error_code.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@3rd@cjson@json2lua.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@panelManager.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@3rd@luabitop@bittest.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@functions.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@3rd@luabitop@nsievebits.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@MathExtend.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@appstore_pay_config.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@3rd@luabitop@bitbench.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@ewmTools.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@basefunc.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@AwardManager.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@cardID_vertify.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@3rd@luabitop@installpath.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@normal_enum.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@3rd@cjson@lua2json.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@printfunc.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@3rd@eventlib@eventlib.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@shoping_config.lua.bytes
+- Assets/_LUA_/common/common/Game@Common@3rd@luabitop@md5test.lua.bytes
+Dependencies: []

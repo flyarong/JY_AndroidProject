@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3101240610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 636f075b13d3c3530b257648da313e6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_dj.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_diamond1.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_bg_blue.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_btn_alipay.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_memorycard.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_diamond.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_gold7.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_diamond7.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_bg_light2.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_bg_white.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_bg_fg_pop.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_imgf_title_payment.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_diamond2.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_gold6.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_diamond8.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_btn_wechat.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_gold3.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_gold5.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_bg_light1.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_gold8.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_diamond3.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_bg_presented.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_gold2.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_gold1.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_bg_unselected2.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_bg_money.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_jb.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_imgf_title_way.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_bg_fg.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_diamond6.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_btn_selected.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_bg_commodity.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_diamond4.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_gold4.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_icon_diamond5.png
+- Assets/Game/CommonPrefab/Image/Pay/pay_btn_unselected.png
+Dependencies: []

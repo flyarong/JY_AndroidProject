@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2771448971
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5fa8709adfecb990c4beead0b22f404
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Image/Hall/hall_btn_club.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_shiti.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_duihuan.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_shop.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_novice.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_friend.png
+- Assets/Game/game_Hall/Image/Hall/hall_bg_name.png
+- Assets/Game/game_Hall/Image/Hall/hall_icon_duihuan.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_setting.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_share.png
+- Assets/Game/game_Hall/Image/Hall/hall_bg_hb.png
+- Assets/Game/game_Hall/Image/Hall/hall_icon_title.png
+- Assets/Game/game_Hall/Image/Hall/hall_bg_gold.png
+- Assets/Game/game_Hall/Image/Hall/hall_icon_title2.png
+- Assets/Game/game_Hall/Image/Hall/hall_bg_label.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_club_light.png
+- Assets/Game/game_Hall/Image/Hall/hall_icon_shiti.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_practice.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_million.png
+- Assets/Game/game_Hall/Image/Hall/hall_icon_third.png
+- Assets/Game/game_Hall/Image/Hall/hall_icon_second.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_matching.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_match.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_club2.png
+- Assets/Game/game_Hall/Image/Hall/hall_bg_pay.png
+- Assets/Game/game_Hall/Image/Hall/com_icon_bubble.png
+- Assets/Game/game_Hall/Image/Hall/hall_imgf_update.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_set.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_4.png
+- Assets/Game/game_Hall/Image/Hall/hall_imgf_chengdu.png
+- Assets/Game/game_Hall/Image/Hall/hall_icon_first.png
+- Assets/Game/game_Hall/Image/Hall/hall_bg_bubble.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_pay.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_mail.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_service.png
+- Assets/Game/game_Hall/Image/Hall/hall_bg_banner.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_practice3.png
+- Assets/Game/game_Hall/Image/Hall/hall_btn_cut.png
+Dependencies: []

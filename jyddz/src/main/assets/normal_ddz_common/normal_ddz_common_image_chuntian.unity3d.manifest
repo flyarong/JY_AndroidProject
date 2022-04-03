@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1006319243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73d6b2f05599bedb7f29d1e82ebcf136
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_ani_wind1.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_spring2.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_spring3.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_ani_wind3.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_ani_flowers1.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_ani_wind2.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_ani_wind6.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_ani_flowers2.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_spring1.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_ani_wind4.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_ani_wind5.png
+- Assets/Game/normal_ddz_common/Image/chuntian/ddz_ani_wind7.png
+Dependencies: []

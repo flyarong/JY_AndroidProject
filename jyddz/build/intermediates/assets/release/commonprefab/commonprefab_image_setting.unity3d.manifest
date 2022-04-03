@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2199965915
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d684264dc1bb5292e1a1eadba0234d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Image/Setting/14.png
+- Assets/Game/CommonPrefab/Image/Setting/loading_imgf_title_notice.png
+- Assets/Game/CommonPrefab/Image/Setting/setting_btn_slider.png
+- Assets/Game/CommonPrefab/Image/Setting/setting_icon_VOL.png
+- Assets/Game/CommonPrefab/Image/Setting/setting_bg_unlock.png
+- Assets/Game/CommonPrefab/Image/Setting/setting_icon_bar_disable.png
+- Assets/Game/CommonPrefab/Image/Setting/setting_icon_mute.png
+- Assets/Game/CommonPrefab/Image/Setting/loading_imgf_title_update.png
+- Assets/Game/CommonPrefab/Image/Setting/setting_bg_lock.png
+- Assets/Game/CommonPrefab/Image/Setting/setting_bg_bar_2.png
+- Assets/Game/CommonPrefab/Image/Setting/setting_imgf_title_setting.png
+- Assets/Game/CommonPrefab/Image/Setting/setting_bg_bar_1.png
+- Assets/Game/CommonPrefab/Image/Setting/loading_progress_bg.png
+- Assets/Game/CommonPrefab/Image/Setting/com_btn_head_bkg2.png
+- Assets/Game/CommonPrefab/Image/Setting/com_btn_head_bkg1.png
+- Assets/Game/CommonPrefab/Image/Setting/loading_progress_fg.png
+Dependencies: []

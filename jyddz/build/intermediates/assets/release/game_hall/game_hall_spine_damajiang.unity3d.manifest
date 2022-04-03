@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1681783456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22cbcec592732c6741f0bae5aace4fd4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6975dcfa0fdde3aa0684e5e95f63c52c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfd69a42ae0610e4d8bce25cd9ff3291, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69f65558726986c48bb8cf0080ba8faa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/spine/damajiang/damajiang_Material.mat
+- Assets/Game/game_Hall/spine/damajiang/damajiang.png
+- Assets/Game/game_Hall/spine/damajiang/damajiang_SkeletonData.asset
+- Assets/Game/game_Hall/spine/damajiang/damajiang.json
+- Assets/Game/game_Hall/spine/damajiang/damajiang_Atlas.asset
+- Assets/Game/game_Hall/spine/damajiang/damajiang.atlas.txt
+Dependencies: []

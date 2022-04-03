@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\JY\\AndroidProject\\jyddz\\build\\intermediates\\res\\merged\\debug\\drawable\\unity_static_splash.png",
+        "source": "E:\\JY\\AndroidProject\\jyddz\\src\\main\\res\\drawable\\unity_static_splash.png"
+    },
+    {
+        "merged": "E:\\JY\\AndroidProject\\jyddz\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "E:\\JY\\AndroidProject\\jyddz\\unity-android-resources\\build\\intermediates\\bundles\\default\\res\\drawable\\app_icon.png"
+    }
+]

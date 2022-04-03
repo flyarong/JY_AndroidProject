@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 2756400177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 083c94df1d0fdc6785cbee674242456e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Material/MaJing_17.mat
+- Assets/Game/CommonPrefab/Material/MaJing_42.mat
+- Assets/Game/CommonPrefab/Material/MaJing_43.mat
+- Assets/Game/CommonPrefab/Material/MaJing_30.mat
+- Assets/Game/CommonPrefab/Material/MaJing_14.mat
+- Assets/Game/CommonPrefab/Material/MaJing_15.mat
+- Assets/Game/CommonPrefab/Material/MaJing_22.mat
+- Assets/Game/CommonPrefab/Material/MaJing_40.mat
+- Assets/Game/CommonPrefab/Material/jinbiaosai_t6.mat
+- Assets/Game/CommonPrefab/Material/denglu_33.mat
+- Assets/Game/CommonPrefab/Material/xiangguang_184.mat
+- Assets/Game/CommonPrefab/Material/MaJing_9.mat
+- Assets/Game/CommonPrefab/Material/jinbiaosai_t3.mat
+- Assets/Game/CommonPrefab/Material/MaJing_20.mat
+- Assets/Game/CommonPrefab/Material/MaJing_34.mat
+- Assets/Game/CommonPrefab/Material/guangxian_197.mat
+- Assets/Game/CommonPrefab/Material/MaJing_29.mat
+- Assets/Game/CommonPrefab/Material/MaJing_49.mat
+- Assets/Game/CommonPrefab/Material/MaJing_26.mat
+- Assets/Game/CommonPrefab/Material/jingbi.mat
+- Assets/Game/CommonPrefab/Material/MaJing_10.mat
+- Assets/Game/CommonPrefab/Material/MaJing_44.mat
+- Assets/Game/CommonPrefab/Material/MaJing_50.mat
+- Assets/Game/CommonPrefab/Material/denglu_32.mat
+- Assets/Game/CommonPrefab/Material/MaJing_36.mat
+- Assets/Game/CommonPrefab/Material/Ddz_144.mat
+- Assets/Game/CommonPrefab/Material/MaJing_6.mat
+- Assets/Game/CommonPrefab/Material/MaJing_51.mat
+- Assets/Game/CommonPrefab/Material/MaJing_39.mat
+- Assets/Game/CommonPrefab/Material/MaJing_13.mat
+- Assets/Game/CommonPrefab/Material/denglu_30.mat
+- Assets/Game/CommonPrefab/Material/zhiwu_4x4_004.mat
+- Assets/Game/CommonPrefab/Material/MaJing_28.mat
+- Assets/Game/CommonPrefab/Material/MaJing_21.mat
+- Assets/Game/CommonPrefab/Material/MaJing_45.mat
+- Assets/Game/CommonPrefab/Material/LogoFlash.mat
+- Assets/Game/CommonPrefab/Material/MaJing_2.mat
+- Assets/Game/CommonPrefab/Material/MaJing_19.mat
+- Assets/Game/CommonPrefab/Material/MaJing_11.mat
+- Assets/Game/CommonPrefab/Material/MaJing_48.mat
+- Assets/Game/CommonPrefab/Material/MaJing_18.mat
+- Assets/Game/CommonPrefab/Material/MaJing_37.mat
+- Assets/Game/CommonPrefab/Material/MaJing_1.mat
+- Assets/Game/CommonPrefab/Material/MaJing_24.mat
+- Assets/Game/CommonPrefab/Material/MaJing_38.mat
+- Assets/Game/CommonPrefab/Material/MaJing_4.mat
+- Assets/Game/CommonPrefab/Material/wenli_0373.mat
+- Assets/Game/CommonPrefab/Material/MaJing_5.mat
+- Assets/Game/CommonPrefab/Material/MaJing_52_New.mat
+- Assets/Game/CommonPrefab/Material/MaJing_41.mat
+- Assets/Game/CommonPrefab/Material/MaJing_23.mat
+- Assets/Game/CommonPrefab/Material/MaJing_7.mat
+- Assets/Game/CommonPrefab/Material/Ddz_155.mat
+- Assets/Game/CommonPrefab/Material/MaJing_52.mat
+- Assets/Game/CommonPrefab/Material/MaJing_32.mat
+- Assets/Game/CommonPrefab/Material/MaJing_16.mat
+- Assets/Game/CommonPrefab/Material/MaJing_3.mat
+- Assets/Game/CommonPrefab/Material/MaJing_27.mat
+- Assets/Game/CommonPrefab/Material/MaJing_8.mat
+- Assets/Game/CommonPrefab/Material/jinbiaosai_t2.mat
+- Assets/Game/CommonPrefab/Material/MaJing_46.mat
+- Assets/Game/CommonPrefab/Material/denglu_34.mat
+- Assets/Game/CommonPrefab/Material/MaJing_47.mat
+- Assets/Game/CommonPrefab/Material/MaJing_35.mat
+- Assets/Game/CommonPrefab/Material/MaJing_33.mat
+- Assets/Game/CommonPrefab/Material/MaJing_25.mat
+- Assets/Game/CommonPrefab/Material/MaJing_12.mat
+- Assets/Game/CommonPrefab/Material/xiangguang_1820.mat
+- Assets/Game/CommonPrefab/Material/MaJing_31.mat
+- Assets/Game/CommonPrefab/Material/xiangguang_114.mat
+- Assets/Game/CommonPrefab/Material/guangban_052.mat
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_bg.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_particle.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_shader.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_ddzmatch/game_ddzmatch_image_btn.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_particle_jyhd_tx_textures_qipai.unity3d

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2494090864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c464ae9ca6aae9ab5829bf13608d526c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@SharePanel.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@ParticleManager.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@HintPanel.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@RollBroadcast.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@GameGlobalOnOff.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@FullSceneJH.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@ConditionConfig.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@ShareImage.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@SettingPanel.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@CommonPrefabInit.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@PayPanel.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@GuidePanel.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@GuideConfig.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@RectJH.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@GuideModel.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@GuideLogic.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@LittleTips.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@HelpPanel.lua.bytes
+- Assets/_LUA_/commonprefab/commonprefab_lua/Game@CommonPrefab@Lua@HotUpdatePanel.lua.bytes
+Dependencies: []

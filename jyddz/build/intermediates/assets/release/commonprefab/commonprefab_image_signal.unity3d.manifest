@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2679821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c8b22c109c61cb4fab35d06ea7b008b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Image/signal/ddz_power_bg.png
+- Assets/Game/CommonPrefab/Image/signal/ddz_wap03.png
+- Assets/Game/CommonPrefab/Image/signal/ddz_wap01.png
+- Assets/Game/CommonPrefab/Image/signal/ddz_wifi02.png
+- Assets/Game/CommonPrefab/Image/signal/ddz_wifi04.png
+- Assets/Game/CommonPrefab/Image/signal/ddz_wap04.png
+- Assets/Game/CommonPrefab/Image/signal/ddz_wifi01.png
+- Assets/Game/CommonPrefab/Image/signal/ddz_power.png
+- Assets/Game/CommonPrefab/Image/signal/ddz_wap02.png
+- Assets/Game/CommonPrefab/Image/signal/ddz_wifi03.png
+Dependencies: []

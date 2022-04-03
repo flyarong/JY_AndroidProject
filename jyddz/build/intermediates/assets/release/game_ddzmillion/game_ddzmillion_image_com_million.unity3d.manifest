@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3093802320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8792a062e6c2f4c3d02d02647a2470e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMillion/Image/Com_million/million_bg2.png
+- Assets/Game/game_DdzMillion/Image/Com_million/million_bg1.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3220327955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f95e81330901070217a0dc215f658e3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@DdzMyCardUiManger.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@DdzMatchRankPanel.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@DdzActionUiManger.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@GameStart.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@DdzMatchLogic.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@ddz_match_ui.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@DdzMatchHallPanel.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@DdzMatchWaitPanel.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@DdzMatchGamePanel.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@DdzMatchModel.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@DdzMatchStart.lua.bytes
+- Assets/_LUA_/game_ddzmatch/game_ddzmatch_lua/Game@game_DdzMatch@Lua@DdzPlayersActionManger.lua.bytes
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 821880434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc5d48d8e31f81fc08720b8cb80e6078
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f191c6a84ddad8359adf762d6d28f08
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMatch/Font/match_num_currency2(Font).fontsettings
+- Assets/Game/game_DdzMatch/Font/ddz_settlement_mingcishuzi(Material).mat
+- Assets/Game/game_DdzMatch/Font/ddz_settlement_mingcishuzi(Font).fontsettings
+- Assets/Game/game_DdzMatch/Font/match_num_match(Material).mat
+- Assets/Game/game_DdzMatch/Font/match_num_currency2(Material).mat
+- Assets/Game/game_DdzMatch/Font/match_num_match.png
+- Assets/Game/game_DdzMatch/Font/match_num_currency2.png
+- Assets/Game/game_DdzMatch/Font/match_num_match(Font).fontsettings
+- Assets/Game/game_DdzMatch/Font/taotaicishu.mat
+- Assets/Game/game_DdzMatch/Font/taotaicishu.png
+- Assets/Game/game_DdzMatch/Font/game_DdzMatch_Font.txt
+- Assets/Game/game_DdzMatch/Font/ddz_settlement_mingcishuzi.png
+- Assets/Game/game_DdzMatch/Font/taotaicishu.fontsettings
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_shader.unity3d

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2753861285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6786b3cd97540609d10ff91a777dd149
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@GameSceneCfg.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@EmailModel.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@EmailPanel.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@HallModel.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@HallPanel.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@MatchingMJPopPrefab.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@PersonalInfoPanel.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@ShippingAddressPanel.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@AppleHallPanel.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@EmailCellPrefab.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@EmailLogic.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@email_config.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@MatchingDDZPopPrefab.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@HallLogic.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@ServicePrefab.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@GDHallPanel.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@MatchingPopPrefab.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@PersonalInfo.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@HallStart.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@BindingPhonePanel.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@cityname.lua.bytes
+- Assets/_LUA_/game_hall/game_hall_lua/Game@game_Hall@Lua@VerifidePanel.lua.bytes
+Dependencies: []

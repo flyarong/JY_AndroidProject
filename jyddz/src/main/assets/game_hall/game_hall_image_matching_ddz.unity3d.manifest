@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 341840901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ad5eedc21ce4c6d641adbc58c08c867
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_icon_shadow.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_icon_ting.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_btn_3.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_btn_4.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_btn_2.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_imgf_ddz.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_btn_5.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_icon_lzpai.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_icon_dawang.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_icon_jd.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_icon_lz.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_icon_jdpai.png
+- Assets/Game/game_Hall/Image/Matching/DDZ/ddz_pattern_btn_1.png
+Dependencies: []

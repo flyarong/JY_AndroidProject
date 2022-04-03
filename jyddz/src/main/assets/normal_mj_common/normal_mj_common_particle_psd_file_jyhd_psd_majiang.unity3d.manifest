@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 817445816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c046e2cde86b4dd1d60a565d83a2dab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_imgf_ju.png
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_bg_ju.png
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_icon_zimo2.png
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_icon_1hu1.png
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_bg_kai.png
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_icon_2hu2.png
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_icon_zimo1.png
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_imgf_kai.png
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_icon_3hu3.png
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_icon_zimo3.png
+- Assets/Game/normal_mj_common/Particle/PSD_File/JYHD_PSD/MaJiang/particle_mj_game_bg_moji.png
+Dependencies: []

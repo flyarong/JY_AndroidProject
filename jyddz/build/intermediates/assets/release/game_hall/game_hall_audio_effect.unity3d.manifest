@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3704510555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 036d74b5cdff84bcfe858553b1de6ae4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Audio/effect/ie_brick.mp3
+- Assets/Game/game_Hall/Audio/effect/audio_reminded_myself2.mp3
+- Assets/Game/game_Hall/Audio/effect/diploma_applause.mp3
+- Assets/Game/game_Hall/Audio/effect/Playing_cards.mp3
+- Assets/Game/game_Hall/Audio/effect/Upgrade.mp3
+- Assets/Game/game_Hall/Audio/effect/jieping_Sound.mp3
+- Assets/Game/game_Hall/Audio/effect/jinji_animation.mp3
+- Assets/Game/game_Hall/Audio/effect/ddz_room_seawave.mp3
+- Assets/Game/game_Hall/Audio/effect/audio_reminded_myself.mp3
+- Assets/Game/game_Hall/Audio/effect/Failure.mp3
+- Assets/Game/game_Hall/Audio/effect/click_cards.mp3
+- Assets/Game/game_Hall/Audio/effect/vs_animation.mp3
+- Assets/Game/game_Hall/Audio/effect/champion_reward_animation.mp3
+- Assets/Game/game_Hall/Audio/effect/classic_Click_Sound.mp3
+- Assets/Game/game_Hall/Audio/effect/special_alert_warning.mp3
+- Assets/Game/game_Hall/Audio/effect/fishing_reward.mp3
+- Assets/Game/game_Hall/Audio/effect/continuous_pair.mp3
+- Assets/Game/game_Hall/Audio/effect/fishing_noreward.mp3
+- Assets/Game/game_Hall/Audio/effect/dmg_animation.mp3
+- Assets/Game/game_Hall/Audio/effect/ddz_hongbao_open.mp3
+- Assets/Game/game_Hall/Audio/effect/rocket.mp3
+- Assets/Game/game_Hall/Audio/effect/rank_change.mp3
+- Assets/Game/game_Hall/Audio/effect/bomb.mp3
+- Assets/Game/game_Hall/Audio/effect/laizi_Click_Sound.mp3
+- Assets/Game/game_Hall/Audio/effect/airplane_the_first_time.mp3
+- Assets/Game/game_Hall/Audio/effect/setting_ui_out.mp3
+- Assets/Game/game_Hall/Audio/effect/multiple.mp3
+- Assets/Game/game_Hall/Audio/effect/ddz_hongbao_appear.mp3
+- Assets/Game/game_Hall/Audio/effect/Victory.mp3
+- Assets/Game/game_Hall/Audio/effect/gold_lottery.mp3
+- Assets/Game/game_Hall/Audio/effect/competition_Click_Sound.mp3
+- Assets/Game/game_Hall/Audio/effect/happy_Click_Sound.mp3
+- Assets/Game/game_Hall/Audio/effect/run_gold.mp3
+- Assets/Game/game_Hall/Audio/effect/showcards.mp3
+- Assets/Game/game_Hall/Audio/effect/danji_Click_Sound.mp3
+- Assets/Game/game_Hall/Audio/effect/ddz_hongbao_fly.mp3
+- Assets/Game/game_Hall/Audio/effect/shunzi.mp3
+- Assets/Game/game_Hall/Audio/effect/laizi_choose_card.mp3
+- Assets/Game/game_Hall/Audio/effect/airplane_beiguan.mp3
+- Assets/Game/game_Hall/Audio/effect/fishing_ani.mp3
+- Assets/Game/game_Hall/Audio/effect/gold_lotteries.mp3
+- Assets/Game/game_Hall/Audio/effect/clock_countdown.mp3
+- Assets/Game/game_Hall/Audio/effect/fail_car_animation.mp3
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3569853150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 251cdd0148204ee7e8f29469becf537d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMillion/Image/Million/imgf/million_imgf_tixian.png
+- Assets/Game/game_DdzMillion/Image/Million/imgf/million_imgf_apply.png
+- Assets/Game/game_DdzMillion/Image/Million/imgf/million_imgf_bmsy.png
+- Assets/Game/game_DdzMillion/Image/Million/imgf/million_imgf_remind.png
+- Assets/Game/game_DdzMillion/Image/Million/imgf/million_imgf_title.png
+- Assets/Game/game_DdzMillion/Image/Million/imgf/million_imgf_top.png
+- Assets/Game/game_DdzMillion/Image/Million/imgf/million_imgf_kssy.png
+- Assets/Game/game_DdzMillion/Image/Million/imgf/million_imgf_kasai.png
+Dependencies: []

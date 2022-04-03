@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1075368667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59420e44ac0a8d915677106a6719c319
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/PSD_File/JYHD_PSD/doudizhu/ddz_com_bg_title_win_old.png
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/PSD_File/JYHD_PSD/doudizhu/longhu_15_2.png
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/PSD_File/JYHD_PSD/doudizhu/ddz_icon_alarm.png
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/PSD_File/JYHD_PSD/doudizhu/ddz_com_bg_title_lose_old.png
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/PSD_File/JYHD_PSD/doudizhu/settlement_imgf_title_promoted.png
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/PSD_File/JYHD_PSD/doudizhu/Ddz_38.png
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/PSD_File/JYHD_PSD/doudizhu/settlement_imgf_title_gongxi.png
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/PSD_File/JYHD_PSD/doudizhu/settlement_imgf_title_youwin_old.png
+Dependencies: []

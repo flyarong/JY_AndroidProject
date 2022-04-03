@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3959779192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e28f1f873a517da07e8ef1ee4ede5d3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b59f8ba5b868b2d7ed37af9a843d543a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMatch/Animation/jinbiaosai_liuguang 2.controller
+- Assets/Game/game_DdzMatch/Animation/duihuanshangcheng_anniu.controller
+- Assets/Game/game_DdzMatch/Animation/jinbiaosai_glow.controller
+- Assets/Game/game_DdzMatch/Animation/game_DdzMatch_Animation.txt
+- Assets/Game/game_DdzMatch/Animation/jinbiaosai_liuguang.anim
+- Assets/Game/game_DdzMatch/Animation/duihuanshangcheng_anniu.anim
+- Assets/Game/game_DdzMatch/Animation/jinbiaosai_glow.anim
+Dependencies: []

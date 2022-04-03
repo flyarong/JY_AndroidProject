@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3395925154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6727fc2e87dad7dba6ce27d2b4ae8dab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Image/NewHall/ddz_pattern_btn.png
+- Assets/Game/game_Hall/Image/NewHall/mj_pattern_btn.png
+Dependencies: []

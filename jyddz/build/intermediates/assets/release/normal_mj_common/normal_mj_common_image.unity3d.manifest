@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 559019005
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd91ba5e7c46df76cdec8540cf115a95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Image/mj_game_btn_voice.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_guo.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_yellow.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_hu.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_peng.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_chat.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_wan.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_blue.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_hint.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_gang.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_tong.png
+- Assets/Game/normal_mj_common/Image/mj_game_btn_tiao.png
+Dependencies: []

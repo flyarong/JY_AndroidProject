@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3031329643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22b5c5b19e5af4cd76a3b76efed9a84f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzGangsRect.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzPairdesk.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzMyShouPaiManger.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzPlayerManger.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzHelpDesc.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzShouPaiManger.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzYiChuPaiManager.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzClearing.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@mjxz_freestyle_ui.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzLogic.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzHallPanel.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzModel.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@mjxz_drivingrange_award.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzPgManager.lua.bytes
+- Assets/_LUA_/game_mjxz/game_mjxz_lua/Game@game_MjXz@Lua@MjXzGamePanel.lua.bytes
+Dependencies: []

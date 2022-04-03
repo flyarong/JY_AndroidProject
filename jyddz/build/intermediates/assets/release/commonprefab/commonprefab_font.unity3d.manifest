@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 472440999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa39f273c2f9de2f9c33b7cffd90c9d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0bb4c37c915d5352389eeb93c1a3b27a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Font/match_hongbao.mat
+- Assets/Game/CommonPrefab/Font/match_hongbao.fontsettings
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_image_font.unity3d

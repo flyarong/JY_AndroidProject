@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2714153494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fff9adb3c0fe0e744bcad9a4af9e4fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6370d3f9de9eca57f523bce048404a46
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Shader/LogoFlash.shader
+- Assets/Game/CommonPrefab/Shader/Gaussian_Blur.shader
+- Assets/Game/CommonPrefab/Shader/Textured Text Shader.shader
+- Assets/Game/CommonPrefab/Shader/Unlit - Transparent Colored 1.shader
+- Assets/Game/CommonPrefab/Shader/Unlit - Text 1.shader
+Dependencies: []

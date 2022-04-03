@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 385042996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2974ea5333d50b4bd2bb14769828fd15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_prize5.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_prize3.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_prize10.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_prize6.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_prize8.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_trophy.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_prize1.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_prize2.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_prize7.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_light_tx.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_prize4.png
+- Assets/Game/game_DdzMillion/Image/Prize/million_icon_prize9.png
+Dependencies: []

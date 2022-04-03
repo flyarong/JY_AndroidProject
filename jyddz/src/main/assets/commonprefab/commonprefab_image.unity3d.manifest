@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 3724087229
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9cf057044c90e7bf37e199d761cc51c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Image/bag_bg_popup2.png
+- Assets/Game/CommonPrefab/Image/com_btn_green.png
+- Assets/Game/CommonPrefab/Image/com_bg_popup.png
+- Assets/Game/CommonPrefab/Image/com_bg_title_popup.png
+- Assets/Game/CommonPrefab/Image/com_icon_menu.png
+- Assets/Game/CommonPrefab/Image/freetable_bg_condition.png
+- Assets/Game/CommonPrefab/Image/account_light_win_JH.png
+- Assets/Game/CommonPrefab/Image/matching_font_3.png
+- Assets/Game/CommonPrefab/Image/com_bg_title_popup2.png
+- Assets/Game/CommonPrefab/Image/matching_font_4.png
+- Assets/Game/CommonPrefab/Image/com_icon_diamond.png
+- Assets/Game/CommonPrefab/Image/com_btn_close.png
+- Assets/Game/CommonPrefab/Image/com_btn_blue.png
+- Assets/Game/CommonPrefab/Image/practice_icon_jinbi.png
+- Assets/Game/CommonPrefab/Image/com_icon_bg_1.png
+- Assets/Game/CommonPrefab/Image/com_btn_1.png
+- Assets/Game/CommonPrefab/Image/com_btn_add.png
+- Assets/Game/CommonPrefab/Image/com_bg_black.png
+- Assets/Game/CommonPrefab/Image/com_icon_man.png
+- Assets/Game/CommonPrefab/Image/com_btn_hint.png
+- Assets/Game/CommonPrefab/Image/com_bg_click.png
+- Assets/Game/CommonPrefab/Image/com_btn_yellow.png
+- Assets/Game/CommonPrefab/Image/com_bg_pop.png
+- Assets/Game/CommonPrefab/Image/com_btn_set.png
+- Assets/Game/CommonPrefab/Image/com_bg_title2.png
+- Assets/Game/CommonPrefab/Image/matching_font_6.png
+- Assets/Game/CommonPrefab/Image/com_bg_notice.png
+- Assets/Game/CommonPrefab/Image/com_icon_new.png
+- Assets/Game/CommonPrefab/Image/com_icon_gold.png
+- Assets/Game/CommonPrefab/Image/com_bg_back.png
+- Assets/Game/CommonPrefab/Image/com_btn_2.png
+- Assets/Game/CommonPrefab/Image/com_icon_conversion.png
+- Assets/Game/CommonPrefab/Image/com_btn_right.png
+- Assets/Game/CommonPrefab/Image/com_btn_jia.png
+- Assets/Game/CommonPrefab/Image/matching_font_5.png
+- Assets/Game/CommonPrefab/Image/bag_bg_popup.png
+- Assets/Game/CommonPrefab/Image/com_icon_click.png
+- Assets/Game/CommonPrefab/Image/com_bg_title.png
+- Assets/Game/CommonPrefab/Image/com_icon_hb.png
+- Assets/Game/CommonPrefab/Image/matching_font_1.png
+- Assets/Game/CommonPrefab/Image/com_btn_4.png
+- Assets/Game/CommonPrefab/Image/com_btn_back2.png
+- Assets/Game/CommonPrefab/Image/matching_font_2.png
+- Assets/Game/CommonPrefab/Image/com_bg_ticket.png
+- Assets/Game/CommonPrefab/Image/com_bg_result.png
+- Assets/Game/CommonPrefab/Image/com_btn_3.png
+- Assets/Game/CommonPrefab/Image/com_btn_back.png
+- Assets/Game/CommonPrefab/Image/com_bg_pop_light.png
+- Assets/Game/CommonPrefab/Image/com_bg_popup1.png
+- Assets/Game/CommonPrefab/Image/com_btn_left.png
+- Assets/Game/CommonPrefab/Image/com_bg_popup2.png
+- Assets/Game/CommonPrefab/Image/com_btn_gray.png
+- Assets/Game/CommonPrefab/Image/com_bg_gold.png
+- Assets/Game/CommonPrefab/Image/com_icon_woman.png
+- Assets/Game/CommonPrefab/Image/ddz_settlement_btn_xianqing.png
+Dependencies: []

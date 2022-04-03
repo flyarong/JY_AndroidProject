@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2121224978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ca30e42fe040d57c44aa3db7026f736
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Game/game_MjXz/game_MjXz.unity
+Dependencies: []

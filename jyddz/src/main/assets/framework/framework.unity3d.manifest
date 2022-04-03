@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 120725989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84a037210e44ea5df30868a54434cedd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/framework/framework/Game@Framework@sproto.lua.bytes
+- Assets/_LUA_/framework/framework/Game@Framework@events.lua.bytes
+- Assets/_LUA_/framework/framework/Game@Framework@URLImageManager.lua.bytes
+- Assets/_LUA_/framework/framework/Game@Framework@sprotoparser.lua.bytes
+- Assets/_LUA_/framework/framework/Game@Framework@DOTweenManager.lua.bytes
+- Assets/_LUA_/framework/framework/Game@Framework@MainLogic.lua.bytes
+- Assets/_LUA_/framework/framework/Game@Framework@Network.lua.bytes
+- Assets/_LUA_/framework/framework/Game@Framework@IosPayManager.lua.bytes
+- Assets/_LUA_/framework/framework/Game@Framework@MainModel.lua.bytes
+Dependencies: []

@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 1396343627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83f5521e84b623cc5f75fd2671f567f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a31e1505e189a9885bcbe2bbbab40e9b
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Audio/majiang_bgm_game.mp3
+- Assets/Game/normal_mj_common/Audio/sod_majiang_castdice.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_3_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_1_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_2_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_8_0.mp3
+- Assets/Game/normal_mj_common/Audio/normal_mj_common_Audio_Desc.txt
+- Assets/Game/normal_mj_common/Audio/sod_majiang_deal.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_8_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_bgm_hall.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_6_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_1_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_9_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_3_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_peng_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_6_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_9_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_5_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_4_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_2_1.mp3
+- Assets/Game/normal_mj_common/Audio/sod_majiang_gamestart.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_7_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_8_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_8_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_4_1.mp3
+- Assets/Game/normal_mj_common/Audio/sod_majiang_Rain.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_1_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_3_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_2_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_2_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_4_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_9_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_zimo_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_6_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_gang_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_4_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_7_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_4_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_5_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_gang_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_hu_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_3_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_9_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_2_0.mp3
+- Assets/Game/normal_mj_common/Audio/sod_majiang_pickupcard.mp3
+- Assets/Game/normal_mj_common/Audio/sod_majiang_wind.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_6_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_7_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_zimo_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_angang_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_8_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_9_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_1_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_5_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_5_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_2_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_8_1.mp3
+- Assets/Game/normal_mj_common/Audio/sod_majiang_outcard.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_peng_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_2_7_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_7_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_7_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_3_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_6_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_9_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_4_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_1_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_hu_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_5_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_1_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_6_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_angang_1.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_1_5_0.mp3
+- Assets/Game/normal_mj_common/Audio/majiang_3_3_0.mp3
+Dependencies: []

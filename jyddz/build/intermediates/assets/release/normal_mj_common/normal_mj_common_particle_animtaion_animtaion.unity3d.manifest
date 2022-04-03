@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3428805254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8221d1724f7164dde3a2dcc0e1a2e28b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f77eea2624f7758fb2f4686f7ac7b73
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/Hu.controller
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/jiesuan.anim
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/kaiju.anim
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/erba_youxikaishi.anim
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/kaiju.controller
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/Mj_JieSuan_win.controller
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/youxikaishi 3.controller
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/MJ_shengli 1.controller
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/Hu.anim
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/Mj_JieSuan_win.anim
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/UI_kuang.controller
+- Assets/Game/normal_mj_common/Particle/Animtaion/Animtaion/UI_kuang.anim
+Dependencies: []

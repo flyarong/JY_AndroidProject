@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 653628823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81347f47647b7f0ac8dfe817e1bcccc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMillion/Image/Million/bg/million_bg_dk2.png
+- Assets/Game/game_DdzMillion/Image/Million/bg/million_bg_ranking.png
+- Assets/Game/game_DdzMillion/Image/Million/bg/million_bg_title.png
+- Assets/Game/game_DdzMillion/Image/Million/bg/million_bg_zong.png
+- Assets/Game/game_DdzMillion/Image/Million/bg/million_bg_money.png
+- Assets/Game/game_DdzMillion/Image/Million/bg/million_bg_player.png
+- Assets/Game/game_DdzMillion/Image/Million/bg/million_bg_1.png
+- Assets/Game/game_DdzMillion/Image/Million/bg/million_bg_2.png
+Dependencies: []

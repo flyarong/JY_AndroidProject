@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 807144869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37a98d7eb7cb9e79e236aff80c679826
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f191c6a84ddad8359adf762d6d28f08
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Font/number_b.png
+- Assets/Game/normal_mj_common/Font/number_b.fontsettings
+- Assets/Game/normal_mj_common/Font/number_r.mat
+- Assets/Game/normal_mj_common/Font/normal_mj_common_Font_Desc.txt
+- Assets/Game/normal_mj_common/Font/number_b.mat
+- Assets/Game/normal_mj_common/Font/number_r.fontsettings
+- Assets/Game/normal_mj_common/Font/number_r.png
+Dependencies: []

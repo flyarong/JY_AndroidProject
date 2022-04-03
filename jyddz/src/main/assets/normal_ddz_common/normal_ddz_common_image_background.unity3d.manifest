@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1341809719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3982d794b0ae9a965bf8c988ff439851
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/background/ddz_bg1.png
+- Assets/Game/normal_ddz_common/Image/background/ddz_table1.png
+- Assets/Game/normal_ddz_common/Image/background/normal_ddz_bg.png
+- Assets/Game/normal_ddz_common/Image/background/ddz_table.png
+Dependencies: []

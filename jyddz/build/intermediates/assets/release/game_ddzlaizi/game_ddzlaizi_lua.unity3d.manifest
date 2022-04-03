@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1041033861
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5653f59dd2dd2ab6af496ead1888a863
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/game_ddzlaizi/game_ddzlaizi_lua/Game@game_DdzLaizi@Lua@DdzLaiziGamePanel.lua.bytes
+- Assets/_LUA_/game_ddzlaizi/game_ddzlaizi_lua/Game@game_DdzLaizi@Lua@DdzLaiziModel.lua.bytes
+- Assets/_LUA_/game_ddzlaizi/game_ddzlaizi_lua/Game@game_DdzLaizi@Lua@DdzLaiziMyCardUiManger.lua.bytes
+- Assets/_LUA_/game_ddzlaizi/game_ddzlaizi_lua/Game@game_DdzLaizi@Lua@DdzLaiziLogic.lua.bytes
+- Assets/_LUA_/game_ddzlaizi/game_ddzlaizi_lua/Game@game_DdzLaizi@Lua@DdzLaiziActionUiManger.lua.bytes
+- Assets/_LUA_/game_ddzlaizi/game_ddzlaizi_lua/Game@game_DdzLaizi@Lua@DdzLaiziPlayersActionManger.lua.bytes
+- Assets/_LUA_/game_ddzlaizi/game_ddzlaizi_lua/Game@game_DdzLaizi@Lua@DdzLaiziHallPanel.lua.bytes
+- Assets/_LUA_/game_ddzlaizi/game_ddzlaizi_lua/Game@game_DdzLaizi@Lua@lzddz_freestyle_ui.lua.bytes
+- Assets/_LUA_/game_ddzlaizi/game_ddzlaizi_lua/Game@game_DdzLaizi@Lua@lzddz_drivingrange_award.lua.bytes
+- Assets/_LUA_/game_ddzlaizi/game_ddzlaizi_lua/Game@game_DdzLaizi@Lua@DdzLaiziClearing.lua.bytes
+Dependencies: []

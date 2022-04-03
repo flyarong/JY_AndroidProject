@@ -1,0 +1,126 @@
+ManifestFileVersion: 0
+CRC: 2994586104
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0128a54df4592cbfa194809680df8208
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 48ca8144838b75f44fe3c0b79078896c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfd69a42ae0610e4d8bce25cd9ff3291, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a060dad8163105d4da1cc26772eec321, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdd5aae87330c634a84a5127396bba5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e86ebbc782f0f64d809698999d8dcf6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMillion/Prefab/ItemAward.prefab
+- Assets/Game/game_DdzMillion/Prefab/dianjibaoming.prefab
+- Assets/Game/game_DdzMillion/Prefab/jiangjin.prefab
+- Assets/Game/game_DdzMillion/Prefab/DdzMillionAwardUI.prefab
+- Assets/Game/game_DdzMillion/Prefab/DdzMillionWaitPanel.prefab
+- Assets/Game/game_DdzMillion/Prefab/DdzMillionHallPanel.prefab
+- Assets/Game/game_DdzMillion/Prefab/DdzMillionAwardPanel.prefab
+- Assets/Game/game_DdzMillion/Prefab/fuhuo.prefab
+- Assets/Game/game_DdzMillion/Prefab/DdzMillionGamePanel.prefab
+- Assets/Game/game_DdzMillion/Prefab/million_btn_2.prefab
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_animation.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_fzy3jw.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_fzy4jw.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_image_font.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_comone.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_setting.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_material.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_ddzmillion/game_ddzmillion_animation.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_ddzmillion/game_ddzmillion_font.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_ddzmillion/game_ddzmillion_image_clearing.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_ddzmillion/game_ddzmillion_image_million_bg.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_ddzmillion/game_ddzmillion_image_million_imgf.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_ddzmillion/game_ddzmillion_image_million.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_ddzmillion/game_ddzmillion_image_prize.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_ddzmillion/game_ddzmillion_image.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_ddzmillion/game_ddzmillion_spine.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_animation.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image_background.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image_normal_ddz_ui.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image_npc.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image_poker_element.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image_settlement.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image_settlement1.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image_top.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_materials.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_particle_jyhd_tx_animtaion.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_particle_jyhd_tx_psd_file_jyhd_psd_doudizhu.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_particle_jyhd_tx_textures_qipai_materials.unity3d

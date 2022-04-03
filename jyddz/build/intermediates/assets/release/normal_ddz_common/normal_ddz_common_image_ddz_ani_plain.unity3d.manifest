@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 515360900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55afc4902d7201e74b987cafd8e977d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/ddz_ani_plain/ddz_plane_smoke01.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_plain/plain1.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_plain/plain2.png
+- Assets/Game/normal_ddz_common/Image/ddz_ani_plain/ddz_plane_smoke02.png
+Dependencies: []

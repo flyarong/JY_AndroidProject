@@ -1,0 +1,6 @@
+game_login/game_login_denglu_spine.unity3d|a6aa2767f3bd6f6661a7dae04ffe3930|590040
+game_login/game_login_image.unity3d|4c26c38ff1ecf4ed432a86d3e7ad073d|193498
+game_login/game_login_lua.unity3d|64f6aa4bb768926e0815d3cc7862373a|24238
+game_login/game_login_prefab.unity3d|e24548474626e43f9337e60ff63ce298|52132
+game_login/game_login_scene.unity3d|2ed8097a06e1fbc07cf05a6aca69553d|8222
+game_login/udf.txt|94b90e5dcaf635a94709401c95ca09bb|142

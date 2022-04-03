@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 966364255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32b9862fbd9af428c2e1e0220e6b6324
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Image/qipai/dating_11.png
+- Assets/Game/game_Hall/Image/qipai/dating_5.png
+- Assets/Game/game_Hall/Image/qipai/dating_7.png
+- Assets/Game/game_Hall/Image/qipai/dating_2.png
+- Assets/Game/game_Hall/Image/qipai/dating_10.png
+- Assets/Game/game_Hall/Image/qipai/dating_6.png
+- Assets/Game/game_Hall/Image/qipai/dating_4.png
+- Assets/Game/game_Hall/Image/qipai/dating_1.png
+- Assets/Game/game_Hall/Image/qipai/dating_9.png
+Dependencies: []

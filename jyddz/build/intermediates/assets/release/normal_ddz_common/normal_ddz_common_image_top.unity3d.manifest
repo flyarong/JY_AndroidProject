@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1397917231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a273eb594867ea11363ad40b21288e3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/top/match_btn_back.png
+- Assets/Game/normal_ddz_common/Image/top/match_bg_matchdk1.png
+- Assets/Game/normal_ddz_common/Image/top/match_bg_matchdk2.png
+- Assets/Game/normal_ddz_common/Image/top/match_bg_award.png
+- Assets/Game/normal_ddz_common/Image/top/match_bg_fanhuidk.png
+Dependencies: []

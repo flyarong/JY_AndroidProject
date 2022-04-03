@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1175527595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0884ddae702973fe38da31934bcf9ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Game/game_Login/game_Login.unity
+Dependencies: []

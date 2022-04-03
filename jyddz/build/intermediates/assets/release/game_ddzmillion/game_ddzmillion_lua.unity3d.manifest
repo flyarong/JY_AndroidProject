@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4250326727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf33a678935329e256ebaa3c7223230b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/game_ddzmillion/game_ddzmillion_lua/Game@game_DdzMillion@Lua@DdzMillionAwardPanel.lua.bytes
+- Assets/_LUA_/game_ddzmillion/game_ddzmillion_lua/Game@game_DdzMillion@Lua@DdzMillionWaitPanel.lua.bytes
+- Assets/_LUA_/game_ddzmillion/game_ddzmillion_lua/Game@game_DdzMillion@Lua@DdzMillionModel.lua.bytes
+- Assets/_LUA_/game_ddzmillion/game_ddzmillion_lua/Game@game_DdzMillion@Lua@DdzMillionActionUiManger.lua.bytes
+- Assets/_LUA_/game_ddzmillion/game_ddzmillion_lua/Game@game_DdzMillion@Lua@DdzMillionHallPanel.lua.bytes
+- Assets/_LUA_/game_ddzmillion/game_ddzmillion_lua/Game@game_DdzMillion@Lua@DdzMillionPlayersActionManger.lua.bytes
+- Assets/_LUA_/game_ddzmillion/game_ddzmillion_lua/Game@game_DdzMillion@Lua@DdzMillionMyCardUiManger.lua.bytes
+- Assets/_LUA_/game_ddzmillion/game_ddzmillion_lua/Game@game_DdzMillion@Lua@DdzMillionLogic.lua.bytes
+- Assets/_LUA_/game_ddzmillion/game_ddzmillion_lua/Game@game_DdzMillion@Lua@DdzMillionGetAwardPanel.lua.bytes
+- Assets/_LUA_/game_ddzmillion/game_ddzmillion_lua/Game@game_DdzMillion@Lua@DdzMillionGamePanel.lua.bytes
+Dependencies: []

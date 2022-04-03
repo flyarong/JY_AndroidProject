@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2908638715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d3e3d536eccc5ab927b4dd7c060a766
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Image/Materials/dating_7.mat
+- Assets/Game/game_Hall/Image/Materials/dating_6.mat
+- Assets/Game/game_Hall/Image/Materials/dating_9.mat
+- Assets/Game/game_Hall/Image/Materials/dating_8.mat
+- Assets/Game/game_Hall/Image/Materials/dating_1.mat
+- Assets/Game/game_Hall/Image/Materials/dating_4.mat
+- Assets/Game/game_Hall/Image/Materials/dating_10.mat
+- Assets/Game/game_Hall/Image/Materials/dating_5.mat
+- Assets/Game/game_Hall/Image/Materials/dating_11.mat
+- Assets/Game/game_Hall/Image/Materials/dating_3.mat
+- Assets/Game/game_Hall/Image/Materials/dating_2.mat
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_particle.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image_qipai.unity3d

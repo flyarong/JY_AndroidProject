@@ -1,0 +1,1 @@
+{"ident":"game_mjxl","url":"http://120.79.190.11/jydown/Version/","version":"1.1.1","dirList":["common","framework","sproto","commonprefab","normal_mj_common"]}

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2414441731
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3b600a49a473adf0f6a92198e7659e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Image/jyjjcode.jpg
+- Assets/Game/game_Hall/Image/service_imgf_service.png
+- Assets/Game/game_Hall/Image/bg_notice.png
+- Assets/Game/game_Hall/Image/hall_imgf_pay.png
+- Assets/Game/game_Hall/Image/hall_btn_practice2.png
+- Assets/Game/game_Hall/Image/service_btn_copy.png
+- Assets/Game/game_Hall/Image/service_bg_qrcord.png
+- Assets/Game/game_Hall/Image/hall_banner_1.png
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2538474915
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4fa360b8b89f44945771ea57059801ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMillion/Animation/million_btn_2.anim
+- Assets/Game/game_DdzMillion/Animation/million_btn_2.controller
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2728544850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75add12d3f6178c62d4e723f4bf3321f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Image/Email/mail_btn_unread.png
+- Assets/Game/game_Hall/Image/Email/mail_bg_text.png
+- Assets/Game/game_Hall/Image/Email/mail_btn_read.png
+- Assets/Game/game_Hall/Image/Email/activity_bg_1.png
+- Assets/Game/game_Hall/Image/Email/mail_btn_selected.png
+- Assets/Game/game_Hall/Image/Email/mail_bg_award.png
+- Assets/Game/game_Hall/Image/Email/mail_imgf_title_mail.png
+- Assets/Game/game_Hall/Image/Email/mail_bg_mail.png
+- Assets/Game/game_Hall/Image/Email/mail_icon_mail1.png
+- Assets/Game/game_Hall/Image/Email/mail_icon_mail2.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1138429527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7cdb6b43186520c2e8a507776f9127c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/game_login/game_login_lua/Game@game_Login@Lua@LoginNotice.lua.bytes
+- Assets/_LUA_/game_login/game_login_lua/Game@game_Login@Lua@LoginLogic.lua.bytes
+- Assets/_LUA_/game_login/game_login_lua/Game@game_Login@Lua@LoginStart.lua.bytes
+- Assets/_LUA_/game_login/game_login_lua/Game@game_Login@Lua@NoticeConfig.lua.bytes
+- Assets/_LUA_/game_login/game_login_lua/Game@game_Login@Lua@LoginPanel.lua.bytes
+- Assets/_LUA_/game_login/game_login_lua/Game@game_Login@Lua@GameXYText.lua.bytes
+- Assets/_LUA_/game_login/game_login_lua/Game@game_Login@Lua@LoginModel.lua.bytes
+Dependencies: []

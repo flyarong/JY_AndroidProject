@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 1234962579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dd9b367c638a157aa55693bd3b8c080
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_2.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair7.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_7.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_14.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair1.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_four_with_two.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_11.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_wozha.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_I_got_left_two_cards.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_6.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_3.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_not_call.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair5.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair12.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_I_got_left_two_cards_erdou.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_zhade.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_three_with_one.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_bujiabei.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_1.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_2_point.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_boyibo.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair11.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_yizou.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_12.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_10.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair0.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_I_got_left_one_cards.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair8.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_four_with_two_pair.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_no.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_wodeng.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_8.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_airplane.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_1_point.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair3.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_not_rob.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair10.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_three_with_one_pair.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_13.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_rob_dizhu.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_5.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_4.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_0.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair4.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pass.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_9.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_airplane_with_wing.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_shunzi.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair2.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_rocket.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_three_one.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair9.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_call_dizhu.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_bomb.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_fengchui.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_3_point.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_continuous_pair.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_pair6.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_mingpai.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_I_got_left_one_cards_erdou.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_jiabei.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_guniang.mp3
+- Assets/Game/game_Hall/Audio/effect/female_voice/female_zhenpa.mp3
+Dependencies: []

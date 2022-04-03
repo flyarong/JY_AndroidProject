@@ -1,0 +1,143 @@
+ManifestFileVersion: 0
+CRC: 4111576368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e128d9aaab3f731c9afbf1156402b91b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 084a9998bf34b44d7e9ccdc7eaeabdbb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a45dfa1543f7f845b470128db80d3a7, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 853051423, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c6588321a64fd04e8ee313fc7c77272, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfd69a42ae0610e4d8bce25cd9ff3291, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa645034668d12c42ac731f41398d2e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 775adc06dbc041c4a865ce48ac41a8ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0660a6a83ffc77f4daae11862b775890, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdd5aae87330c634a84a5127396bba5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e86ebbc782f0f64d809698999d8dcf6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Prefab/ShippingAddressPanel.prefab
+- Assets/Game/game_Hall/Prefab/MatchingDDZPopPrefab.prefab
+- Assets/Game/game_Hall/Prefab/baoxiang_majiang.prefab
+- Assets/Game/game_Hall/Prefab/BindingPhonePanel.prefab
+- Assets/Game/game_Hall/Prefab/laizi_nongming.prefab
+- Assets/Game/game_Hall/Prefab/EmailPanel.prefab
+- Assets/Game/game_Hall/Prefab/GDHallPanel.prefab
+- Assets/Game/game_Hall/Prefab/caidai.prefab
+- Assets/Game/game_Hall/Prefab/EmailCellPrefab.prefab
+- Assets/Game/game_Hall/Prefab/jingdian_dizhu.prefab
+- Assets/Game/game_Hall/Prefab/MatchingPopPrefab.prefab
+- Assets/Game/game_Hall/Prefab/PersonalInfoPanel.prefab
+- Assets/Game/game_Hall/Prefab/ServicePrefab.prefab
+- Assets/Game/game_Hall/Prefab/AppleHallPanel.prefab
+- Assets/Game/game_Hall/Prefab/MatchingMJPopPrefab.prefab
+- Assets/Game/game_Hall/Prefab/xuezhan_majiang.prefab
+- Assets/Game/game_Hall/Prefab/VerifidePanel.prefab
+- Assets/Game/game_Hall/Prefab/baoxiang.prefab
+- Assets/Game/game_Hall/Prefab/xueliu_majiang.prefab
+- Assets/Game/game_Hall/Prefab/tingyong_dizhu.prefab
+- Assets/Game/game_Hall/Prefab/BindingZFBPanel.prefab
+- Assets/Game/game_Hall/Prefab/PublicWelfarePanel.prefab
+- Assets/Game/game_Hall/Prefab/HallPanel.prefab
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_fzy3jw.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_fzy4jw.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_font_image_font.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_bg.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_comone.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_setting.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_material.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_animation.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image_email.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image_hall.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image_matching_ddz.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image_matching_mj.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image_materials.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image_newhall.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image_playercenter.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_spine_damajiang.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_spine_ddzspine.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_spine_doudizhu.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_spine_jinbiaosai.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_spine_mjspine.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_spine_pauyouchang.unity3d

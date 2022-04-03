@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2657424987
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 735037eee558d717bee64d2daef5a2b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_btn_bg5.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_btn_bg6.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_btn_bg_down.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_btn_bg1.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_btn_bg4.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_imgf_1.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_imgf_8.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_btn_bg8.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_btn_bg3.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_btn_bg2.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_imgf_6.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_imgf_7.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_imgf_4.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_imgf_2.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_btn_bg7.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_imgf_3.png
+- Assets/Game/normal_ddz_common/Image/ddz_hall/ddz_imgf_5.png
+Dependencies: []

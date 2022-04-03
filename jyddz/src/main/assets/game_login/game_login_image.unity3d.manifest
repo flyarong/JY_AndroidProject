@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1154920004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b47e5b1402ca5df2eeeb01cde78cb2b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Login/Image/uers_proto_img.png
+- Assets/Game/game_Login/Image/youke_login_btn.png
+- Assets/Game/game_Login/Image/loading_bg_fg.png
+- Assets/Game/game_Login/Image/wx_login_btn.png
+Dependencies: []

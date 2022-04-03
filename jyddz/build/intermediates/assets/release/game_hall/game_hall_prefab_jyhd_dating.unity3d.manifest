@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1346704291
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6f5fb805972ef496e20bce8e8ae62f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db49b57e1924f92d27e5261d8d9511e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Prefab/JYHD_dating/damajiang_liuguang.prefab
+- Assets/Game/game_Hall/Prefab/JYHD_dating/majiang_LOGO.prefab
+- Assets/Game/game_Hall/Prefab/JYHD_dating/jingyujingji.prefab
+- Assets/Game/game_Hall/Prefab/JYHD_dating/hall_btn_pay.prefab
+- Assets/Game/game_Hall/Prefab/JYHD_dating/paiyouchang_liuguang.prefab
+- Assets/Game/game_Hall/Prefab/JYHD_dating/com_icon_gold.prefab
+- Assets/Game/game_Hall/Prefab/JYHD_dating/hall_imgf_pay.prefab
+- Assets/Game/game_Hall/Prefab/JYHD_dating/hall_btn_practice2.prefab
+- Assets/Game/game_Hall/Prefab/JYHD_dating/guangxianhuiju.prefab
+- Assets/Game/game_Hall/Prefab/JYHD_dating/doudizhu_liuguang.prefab
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_comone.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_material.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_animation.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image_hall.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image_materials.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/game_hall/game_hall_image.unity3d

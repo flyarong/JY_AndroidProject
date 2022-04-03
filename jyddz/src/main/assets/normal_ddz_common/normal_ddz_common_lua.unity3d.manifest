@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 707219443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab3eb51181ad3a3c7b1a8e89e51a5125
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_LUA_/normal_ddz_common/normal_ddz_common_lua/Game@normal_ddz_common@Lua@DdzCardTag.lua.bytes
+- Assets/_LUA_/normal_ddz_common/normal_ddz_common_lua/Game@normal_ddz_common@Lua@tingyong_ddz_func.lua.bytes
+- Assets/_LUA_/normal_ddz_common/normal_ddz_common_lua/Game@normal_ddz_common@Lua@DdzDzCard.lua.bytes
+- Assets/_LUA_/normal_ddz_common/normal_ddz_common_lua/Game@normal_ddz_common@Lua@laizi_ddz_func_lib.lua.bytes
+- Assets/_LUA_/normal_ddz_common/normal_ddz_common_lua/Game@normal_ddz_common@Lua@normal_ddz_func_lib.lua.bytes
+- Assets/_LUA_/normal_ddz_common/normal_ddz_common_lua/Game@normal_ddz_common@Lua@DDZAnimation.lua.bytes
+- Assets/_LUA_/normal_ddz_common/normal_ddz_common_lua/Game@normal_ddz_common@Lua@DdzCard.lua.bytes
+- Assets/_LUA_/normal_ddz_common/normal_ddz_common_lua/Game@normal_ddz_common@Lua@GameDdzHelp.lua.bytes
+Dependencies: []

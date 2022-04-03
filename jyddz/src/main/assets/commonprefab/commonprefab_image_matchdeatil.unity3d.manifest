@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2840850622
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 746eec7e23176c882b0c449dbe9b9ebd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Image/MatchDeatil/match_icon_third.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/matchpop_icon_more_help3.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/match_icon_banner2.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/matchpop_imgf_title.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/match_bg_title.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/match_icon_banner1.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/banner.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/match_icon_title_award.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/match_icon_first.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/matchpop_bg_text.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/match_icon_banner3.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/matchpop_icon_more_help1.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/matchpop_icon_more_help2.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/match_icon_banner.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/match_icon_second.png
+- Assets/Game/CommonPrefab/Image/MatchDeatil/match_icon_banner4.png
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3544743386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 970b8f830d90da848d062787f63cc38f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi8.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi1.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi3.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi4.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi7.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi9.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi2.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi5.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi2.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi10.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi5.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi6.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi11.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi3.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi4.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi_anmi1.png
+- Assets/Game/normal_mj_common/Image/Animation/shaizi6.png
+Dependencies: []

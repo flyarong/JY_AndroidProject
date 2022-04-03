@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3095801457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c61851c3f66644cac4eee83731657479
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_tong.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_bg.jpg
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_player.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_dian.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_icon.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_tuichu.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_lack.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_direction.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_zhang.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_huanzhuo.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_blac.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_wait.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_paishu.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_jixu.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_bg.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_wan.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_time_light2.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_amount.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_dingque.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_jiesuan.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_bg_patttern.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_tiao.png
+- Assets/Game/normal_mj_common/Image/Image/bg/mj_game_imgf_hu.png
+Dependencies: []

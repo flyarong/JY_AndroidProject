@@ -1,0 +1,104 @@
+ManifestFileVersion: 0
+CRC: 136400386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62a6f104335819bc6d76e188a80658cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bomb.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_score2_2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_recommend2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bg_dialog.9.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_imgf_font_15.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_bujiao.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_6.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_jiaodizhu2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_imgf_font_14.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_qiangdizhu2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_buqiang.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_6.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_anticlockwise.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_9.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_bujiabei2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_7.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bomb_4.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_score1_2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_imgf_font_12.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_1.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bomb_2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_score1.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_notecard.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_3.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_chupai2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_confirm.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_mingpai2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bg_2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_7.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_reelect2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_jiaodizhu.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bg_grade2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bomb_5.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_5.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_zidong.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_icon_alarmlight.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_icon_clock.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_chupai.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_score2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_imgf_font_11.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bomb_3.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_3.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_jiabei2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_imgf_font_13.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_score3.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bg_reelect.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_mingpai.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_chat.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_score3_2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_xuanpai.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bg_jipai1.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_4.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_10.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_buchu2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_yaobuqi.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_5.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_imgf_failure.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bg_pokerfaces.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bg_state.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_clockwise.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_4.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_buchu.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bg_num.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_small.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bomb_1.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bg_grade1.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_imgf_buy.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_qiangdizhu.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_bg_jipaiqi.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_8.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_1.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_bujiao2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_recommend.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_imgf_font_9.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_jiabei.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/game_imgf_font_10.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_bujiabei.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_reelect.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_confirm2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_hint2.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_hint.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_bg_1.png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_font_..png
+- Assets/Game/normal_ddz_common/Image/normal_ddz_ui/ddz_btn_buqiang2.png
+Dependencies: []

@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2920536970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c54224fa77dc7388328365271c6200a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/pai_mian.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_7.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_black_6.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_blue_8.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_black_5.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_black_2.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_blue_3.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_yellow_1.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_black_7.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_black_1.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_yellow_3.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_4.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_blue_6.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_yellow_6.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_ani1.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_blue_7.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_yellow_2.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_black_8.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_yellow_5.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_2.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_blue_1.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_blue_4.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_ani4.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_8.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_yellow_7.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_yellow_8.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_5.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_black_3.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_yellow_4.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_black_4.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_ani3.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_blue_5.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_blue_2.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_6.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_9.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_3.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_1.png
+- Assets/Game/normal_mj_common/Image/Image/MJ_pai/mj_green_ani2.png
+Dependencies: []

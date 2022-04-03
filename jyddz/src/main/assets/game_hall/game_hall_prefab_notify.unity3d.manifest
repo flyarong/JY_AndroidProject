@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 348224524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d094a6e70ff41d7159abb4d7ec39d4a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a21c42487560660e7211e82723aeb3f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e86ebbc782f0f64d809698999d8dcf6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Prefab/Notify/NotifyPanel.prefab
+Dependencies: []

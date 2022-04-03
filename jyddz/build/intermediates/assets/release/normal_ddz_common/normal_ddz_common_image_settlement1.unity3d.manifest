@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2895022548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ce1e9fc4aa34a383b5153d0494671a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_icon_first.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_dk1.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_bq.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_icon_guang.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_bg_jiangbeidkguang.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_icon_third.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_cd.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_dkxian.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_bg_lx.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_icon_xx.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_icon_nm.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_bq2.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_icon_dz.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_bg_dk2.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_jiangpindk2.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_sxg.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/practice_bg_bq.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/practice_bg_zjzldk2.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_bg_g.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_jiangbei.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_btn_fx.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/practice_zjzl_xian.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_bg_particulars.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_cj.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_bg_dk1.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_xingxing.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_imgf_jinji.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_imgf_gxhd.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_icon_jingbi.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_lx.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_imgf_ddpp.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_icon_money.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_bg_xian.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_jiangpindk1.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_bg_jiangpindk3.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_imgf_jjjj.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_bg_xx.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/settlement_icon_second.png
+- Assets/Game/normal_ddz_common/Image/Settlement1/ddz_settlement_icon_wangguan.png
+Dependencies: []

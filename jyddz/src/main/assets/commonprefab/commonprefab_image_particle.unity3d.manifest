@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 3183644188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a685f3f3a166b116dff965e6d2345834
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_48.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_21.png
+- Assets/Game/CommonPrefab/Image/Particle/xiangguang_184.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_38.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_9.png
+- Assets/Game/CommonPrefab/Image/Particle/particle_longhu_15_2.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_27.png
+- Assets/Game/CommonPrefab/Image/Particle/denglu_33.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_5.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_7.png
+- Assets/Game/CommonPrefab/Image/Particle/xiangguang_114.png
+- Assets/Game/CommonPrefab/Image/Particle/denglu_30.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_26.png
+- Assets/Game/CommonPrefab/Image/Particle/jinbiaosai_t2.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_46.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_19.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_50.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_39.png
+- Assets/Game/CommonPrefab/Image/Particle/jinbiaosai_t6.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_34.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_35.png
+- Assets/Game/CommonPrefab/Image/Particle/wenli_0373.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_43.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_42.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_1.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_32.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_11.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_45.tga
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_17.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_41.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_2.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_23.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_16.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_18.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_25.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_29.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_44.png
+- Assets/Game/CommonPrefab/Image/Particle/particle_ddz_com_bg_title_lose.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_22.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_31.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_6.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_36.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_15.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_47.png
+- Assets/Game/CommonPrefab/Image/Particle/zhiwu_4x4_004.png
+- Assets/Game/CommonPrefab/Image/Particle/guangxian_197.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_12.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_3.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_10.png
+- Assets/Game/CommonPrefab/Image/Particle/denglu_34.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_52.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_37.png
+- Assets/Game/CommonPrefab/Image/Particle/denglu_32.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_40.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_20.png
+- Assets/Game/CommonPrefab/Image/Particle/jingbi.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_14.bmp
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_28.png
+- Assets/Game/CommonPrefab/Image/Particle/xiangguang_1820.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_33.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_30.png
+- Assets/Game/CommonPrefab/Image/Particle/particle_ddz_com_bg_title_win.png
+- Assets/Game/CommonPrefab/Image/Particle/guangban_052.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_24.png
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_13.tga
+- Assets/Game/CommonPrefab/Image/Particle/MaJing_51.png
+- Assets/Game/CommonPrefab/Image/Particle/particle_freetable_imgf_win.png
+Dependencies: []

@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 702503924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d53a93c23504f324fda445fda342748
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f191c6a84ddad8359adf762d6d28f08
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_DdzMillion/Font/ddz_num_bonus.png
+- Assets/Game/game_DdzMillion/Font/million_font_money(Material).mat
+- Assets/Game/game_DdzMillion/Font/million_num_time(Material).mat
+- Assets/Game/game_DdzMillion/Font/ddz_num_this_bonus(Font).fontsettings
+- Assets/Game/game_DdzMillion/Font/million_font_congrats(Font).fontsettings
+- Assets/Game/game_DdzMillion/Font/ddz_num_bonus(Font).fontsettings
+- Assets/Game/game_DdzMillion/Font/million_nun_countdown(Material).mat
+- Assets/Game/game_DdzMillion/Font/million_number_phb(Material).mat
+- Assets/Game/game_DdzMillion/Font/million_nun_countdown(Font).fontsettings
+- Assets/Game/game_DdzMillion/Font/million_num_money1(Material).mat
+- Assets/Game/game_DdzMillion/Font/ddz_num_bonus(Material).mat
+- Assets/Game/game_DdzMillion/Font/million_number_tixian.png
+- Assets/Game/game_DdzMillion/Font/million_nun_countdown.png
+- Assets/Game/game_DdzMillion/Font/million_number_phb.png
+- Assets/Game/game_DdzMillion/Font/ddz_num_this_bonus.png
+- Assets/Game/game_DdzMillion/Font/million_font_money(Font).fontsettings
+- Assets/Game/game_DdzMillion/Font/million_font_congrats(Material).mat
+- Assets/Game/game_DdzMillion/Font/million_num_money1.png
+- Assets/Game/game_DdzMillion/Font/million_number_tixian(Material).mat
+- Assets/Game/game_DdzMillion/Font/million_number_tixian(Font).fontsettings
+- Assets/Game/game_DdzMillion/Font/million_font_congrats.png
+- Assets/Game/game_DdzMillion/Font/million_font_money.png
+- Assets/Game/game_DdzMillion/Font/million_number_phb(Font).fontsettings
+- Assets/Game/game_DdzMillion/Font/million_num_time.png
+- Assets/Game/game_DdzMillion/Font/game_DdzMillion_Font_Desc.txt
+- Assets/Game/game_DdzMillion/Font/million_num_money1(Font).fontsettings
+- Assets/Game/game_DdzMillion/Font/ddz_num_this_bonus(Material).mat
+- Assets/Game/game_DdzMillion/Font/million_num_time(Font).fontsettings
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_shader.unity3d

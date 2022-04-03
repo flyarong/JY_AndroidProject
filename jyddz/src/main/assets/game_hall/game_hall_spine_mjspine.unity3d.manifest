@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2828394752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a7783c97a677fb47fb68fa11c10e494
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6975dcfa0fdde3aa0684e5e95f63c52c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfd69a42ae0610e4d8bce25cd9ff3291, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69f65558726986c48bb8cf0080ba8faa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/spine/MJSpine/xueliu_Atlas.asset
+- Assets/Game/game_Hall/spine/MJSpine/xuezhan_mj_Atlas.asset
+- Assets/Game/game_Hall/spine/MJSpine/xuezhan_mj_SkeletonData.asset
+- Assets/Game/game_Hall/spine/MJSpine/xueliu2.png
+- Assets/Game/game_Hall/spine/MJSpine/xuezhan_mj.atlas.txt
+- Assets/Game/game_Hall/spine/MJSpine/xueliu_xueliu.mat
+- Assets/Game/game_Hall/spine/MJSpine/xuezhan_mj2.png
+- Assets/Game/game_Hall/spine/MJSpine/xueliu.json
+- Assets/Game/game_Hall/spine/MJSpine/xueliu.png
+- Assets/Game/game_Hall/spine/MJSpine/xuezhan_mj.png
+- Assets/Game/game_Hall/spine/MJSpine/xueliu.atlas.txt
+- Assets/Game/game_Hall/spine/MJSpine/xueliu_xueliu2.mat
+- Assets/Game/game_Hall/spine/MJSpine/xuezhan_mj_xuezhan_mj.mat
+- Assets/Game/game_Hall/spine/MJSpine/xueliu_SkeletonData.asset
+- Assets/Game/game_Hall/spine/MJSpine/xuezhan_mj.json
+- Assets/Game/game_Hall/spine/MJSpine/xuezhan_mj_xuezhan_mj2.mat
+Dependencies: []

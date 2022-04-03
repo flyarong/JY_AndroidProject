@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 2893688651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 936eacbbff1fb5306e9f207de1af4901
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 218e0783380d30c4a5775f831bb032f9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/chupaitishi.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/Ddz_JieSuan_shengli.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/qiehuan_beishu.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/glow_lan.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/Ddz_JieSuan_jingjijuesai.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/baojingqi.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/Ddz_JieSuan_lose.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/beishu.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/Ddz_JieSuan_taotai.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/Ddz_JieSuan_gongxihuode.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/Ddz_JieSuan_jingji.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/pipei.prefab
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Prefabs/JYHD_perfabs/glow_hong.prefab
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_comone.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_particle.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_material.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_animation.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image_poker_element.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image_settlement.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image_settlement1.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_materials.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_particle_jyhd_tx_animtaion.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_particle_jyhd_tx_psd_file_jyhd_psd_doudizhu.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_particle_jyhd_tx_textures_qipai_materials.unity3d

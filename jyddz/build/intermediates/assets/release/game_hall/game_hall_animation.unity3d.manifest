@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2048086154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7aa3735e4ac89465101c90d19156feaa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40f263c5ff4b5cff638d517bfbbdd438
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/game_Hall/Animation/game_Hall_Animation.txt
+- Assets/Game/game_Hall/Animation/hall_btn_practice2.controller
+- Assets/Game/game_Hall/Animation/hall_imgf_pay.controller
+- Assets/Game/game_Hall/Animation/hall_btn_pay.controller
+- Assets/Game/game_Hall/Animation/com_icon_gold.anim
+- Assets/Game/game_Hall/Animation/jingyujingji.controller
+- Assets/Game/game_Hall/Animation/hall_imgf_pay.anim
+- Assets/Game/game_Hall/Animation/jingyujingji.anim
+- Assets/Game/game_Hall/Animation/com_icon_gold.controller
+- Assets/Game/game_Hall/Animation/hall_btn_practice2.anim
+- Assets/Game/game_Hall/Animation/hall_btn_pay.anim
+Dependencies: []

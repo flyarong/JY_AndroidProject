@@ -1,0 +1,505 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:2:70-96
+		INJECTED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml
+		INJECTED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:2:144-169
+		INJECTED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml
+		INJECTED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:2:97-143
+	android:versionCode
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:2:170-193
+		INJECTED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml
+		INJECTED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:2:194-234
+supports-screens
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:3:1-161
+	android:largeScreens
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:3:76-103
+	android:smallScreens
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:3:19-46
+	android:normalScreens
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:3:47-75
+	android:xlargeScreens
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:3:104-132
+	android:anyDensity
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:3:133-158
+application
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:4:1-31:15
+MERGED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:27:5-231:19
+	android:label
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:4:122-154
+	android:icon
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:4:88-121
+	android:banner
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:4:177-214
+	android:theme
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:4:46-87
+	android:isGame
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:4:155-176
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:4:14-45
+activity#com.jingyu.rrddz.UnityPlayerActivity
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:5:5-21:13
+	android:screenOrientation
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:5:100-138
+	android:label
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:5:15-47
+	android:hardwareAccelerated
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:5:353-388
+	android:launchMode
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:5:139-170
+	android:configChanges
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:5:171-352
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:5:48-99
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:6:2-10:18
+action#android.intent.action.MAIN
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:9:19-75
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:12:2-17:18
+data
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:13:9-67
+	android:host
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:13:39-64
+	android:scheme
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:13:15-38
+category#android.intent.category.DEFAULT
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:14:9-67
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:14:19-65
+action#android.intent.action.VIEW
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:15:9-60
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:15:17-58
+category#android.intent.category.BROWSABLE
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:16:19-67
+meta-data#unityplayer.UnityActivity
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:19:2-77
+	android:value
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:19:54-74
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:19:13-53
+activity#com.jingyu.rrddz.wxapi.WXEntryActivity
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:23:2-25:34
+	android:label
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:24:9-41
+	android:exported
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:25:9-32
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:23:12-65
+meta-data#unity.build-id
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:27:2-98
+	android:value
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:27:43-95
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:27:13-42
+meta-data#unity.splash-mode
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:28:5-69
+	android:value
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:28:49-66
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:28:16-48
+meta-data#unity.splash-enable
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:29:5-74
+	android:value
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:29:51-71
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:29:16-50
+meta-data#android.max_aspect
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:30:5-72
+	android:value
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:30:50-69
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:30:16-49
+uses-permission#android.permission.VIBRATE
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:33:3-64
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:33:20-61
+uses-sdk
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:34:3-72
+MERGED from [jyddz:unity-android-resources:unspecified] E:\JY\AndroidProject\jyddz\unity-android-resources\build\intermediates\bundles\default\AndroidManifest.xml:7:5-47
+MERGED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:34:40-69
+		INJECTED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml
+		INJECTED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:34:13-39
+		INJECTED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml
+		MERGED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:34:13-39
+		INJECTED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:35:3-52
+	android:glEsVersion
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:35:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:36:3-88
+	android:required
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:36:61-85
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:36:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:37:3-99
+	android:required
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:37:72-96
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:37:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:38:3-108
+	android:required
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:38:81-105
+	android:name
+		ADDED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:38:17-80
+uses-permission#android.permission.INTERNET
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.BROADCAST_PACKAGE_ADDED
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:17:5-82
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:17:22-79
+uses-permission#android.permission.BROADCAST_PACKAGE_CHANGED
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:18:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_INSTALL
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:19:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_REPLACED
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:20:5-85
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:20:22-82
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:25:5-76
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:25:22-73
+service#com.taobao.accs.ChannelService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:28:9-38:19
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:31:13-39
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:29:13-58
+intent-filter#com.taobao.accs.intent.action.SERVICE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:32:13-34:29
+action#com.taobao.accs.intent.action.SERVICE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:33:25-77
+intent-filter#com.taobao.accs.intent.action.ELECTION
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:35:13-37:29
+action#com.taobao.accs.intent.action.ELECTION
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:36:25-78
+service#com.taobao.accs.data.MsgDistributeService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:39:9-45:19
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:40:13-69
+intent-filter#com.taobao.accs.intent.action.RECEIVE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:42:13-44:29
+action#com.taobao.accs.intent.action.RECEIVE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:43:17-80
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:43:25-77
+receiver#com.taobao.accs.EventReceiver
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:47:9-64:20
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:49:13-39
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:48:13-57
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:50:13-52:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:51:17-79
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:51:25-76
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:53:13-55:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:54:25-76
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:56:13-60:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:57:17-80
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:57:25-77
+intent-filter#android.intent.action.USER_PRESENT
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:61:13-63:29
+action#android.intent.action.USER_PRESENT
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:62:25-74
+receiver#com.taobao.accs.ServiceReceiver
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:65:9-74:20
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:67:13-39
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:66:13-59
+intent-filter#com.taobao.accs.intent.action.COMMAND
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:68:13-70:29
+action#com.taobao.accs.intent.action.COMMAND
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:69:17-80
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:69:25-77
+intent-filter#com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:71:13-73:29
+action#com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:72:17-88
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:72:25-85
+service#com.taobao.accs.ChannelService$KernelService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:76:9-78:42
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:78:13-39
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:77:13-72
+service#org.android.agoo.accs.AgooService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:79:9-85:19
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:81:13-36
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:80:13-61
+service#com.umeng.message.UmengIntentService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:86:9-93:19
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:89:13-39
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:88:13-36
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:87:13-64
+intent-filter#org.agoo.android.intent.action.RECEIVE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:90:13-92:29
+action#org.agoo.android.intent.action.RECEIVE
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:91:17-81
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:91:25-78
+service#com.umeng.message.XiaomiIntentService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:94:9-101:19
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:97:13-39
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:96:13-36
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:95:13-65
+receiver#com.taobao.agoo.AgooCommondReceiver
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:103:9-115:20
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:106:13-39
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:105:13-36
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:104:13-63
+intent-filter#com.jingyu.rrddz.intent.action.COMMAND
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:107:13-109:29
+action#com.jingyu.rrddz.intent.action.COMMAND
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:108:17-81
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:108:25-78
+service#com.umeng.message.UmengMessageIntentReceiverService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:117:9-124:19
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:120:13-39
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:119:13-36
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:118:13-79
+intent-filter#org.android.agoo.client.MessageReceiverService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:121:13-123:29
+action#org.android.agoo.client.MessageReceiverService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:122:17-89
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:122:25-86
+receiver#com.umeng.message.NotificationProxyBroadcastReceiver
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:126:9-128:40
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:127:13-80
+receiver#com.umeng.message.SystemReceiver
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:131:9-145:20
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:133:13-36
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:132:13-60
+receiver#com.umeng.message.MessageReceiver
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:148:9-155:20
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:151:13-36
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:150:13-37
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:149:13-61
+receiver#com.umeng.message.ElectionReceiver
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:158:9-166:20
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:160:13-36
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:159:13-62
+intent-filter#org.agoo.android.intent.action.ELECTION_RESULT_V4+umeng
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:161:13-165:29
+action#org.agoo.android.intent.action.ELECTION_RESULT_V4
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:162:17-92
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:162:25-89
+category#umeng
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:164:17-50
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:164:27-47
+receiver#com.umeng.message.RegistrationReceiver
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:170:9-176:20
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:172:13-37
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:171:13-66
+receiver#com.umeng.message.UmengMessageBootReceiver
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:177:9-181:20
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:177:19-76
+service#com.umeng.message.UmengService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:185:9-201:19
+	android:process
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:189:13-36
+	android:label
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:188:13-40
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:187:13-36
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:186:13-58
+intent-filter#com.jingyu.rrddz.intent.action.START
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:190:13-192:29
+action#com.jingyu.rrddz.intent.action.START
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:191:17-79
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:191:25-76
+intent-filter#com.jingyu.rrddz.intent.action.COCKROACH
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:193:13-195:29
+action#com.jingyu.rrddz.intent.action.COCKROACH
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:194:17-83
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:194:25-80
+intent-filter#org.agoo.android.intent.action.PING_V4+umeng
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:196:13-200:29
+action#org.agoo.android.intent.action.PING_V4
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:197:17-81
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:197:25-78
+service#com.umeng.message.UmengMessageCallbackHandlerService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:202:9-220:19
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:204:13-37
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:203:13-80
+intent-filter#com.umeng.messge.registercallback.action
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:205:13-207:29
+action#com.umeng.messge.registercallback.action
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:206:17-83
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:206:25-80
+intent-filter#com.umeng.message.enablecallback.action
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:208:13-210:29
+action#com.umeng.message.enablecallback.action
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:209:17-82
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:209:25-79
+intent-filter#com.umeng.message.disablecallback.action
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:211:13-213:29
+action#com.umeng.message.disablecallback.action
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:212:17-83
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:212:25-80
+intent-filter#com.umeng.message.message.handler.action
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:214:13-216:29
+action#com.umeng.message.message.handler.action
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:215:17-83
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:215:25-80
+intent-filter#com.umeng.message.message.sendmessage.action
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:217:13-219:29
+action#com.umeng.message.message.sendmessage.action
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:218:17-87
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:218:25-84
+service#com.umeng.message.UmengDownloadResourceService
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:221:9-223:40
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:223:13-37
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:222:13-74
+provider#com.umeng.message.provider.MessageProvider
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:225:9-230:20
+	android:authorities
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:227:13-65
+	android:exported
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:228:13-37
+	android:name
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:226:13-70
+grant-uri-permission
+ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:229:13-62
+	android:pathPattern
+		ADDED from [jyddz:push:unspecified] E:\JY\AndroidProject\jyddz\push\build\intermediates\bundles\default\AndroidManifest.xml:229:35-59
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\JY\AndroidProject\jyddz\src\main\AndroidManifest.xml:2:1-40:12 reason: com.umeng.message.lib requested WRITE_EXTERNAL_STORAGE

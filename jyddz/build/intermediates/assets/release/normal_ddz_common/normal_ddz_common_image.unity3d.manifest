@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 294183039
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 106c474f3c97f07a23e03b108f5c8a70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/laizi_imgf_title.png
+- Assets/Game/normal_ddz_common/Image/Ddz_4.png
+- Assets/Game/normal_ddz_common/Image/match_icon_JYB.png
+- Assets/Game/normal_ddz_common/Image/ty_bg_condition.png
+- Assets/Game/normal_ddz_common/Image/match_icon_tickets.png
+- Assets/Game/normal_ddz_common/Image/freetable_imgf_title.png
+- Assets/Game/normal_ddz_common/Image/ddz_com_bg_title_lose.png
+- Assets/Game/normal_ddz_common/Image/Ddz_1.png
+- Assets/Game/normal_ddz_common/Image/ty_bg_xzpx1.png
+- Assets/Game/normal_ddz_common/Image/Ddz_3.png
+- Assets/Game/normal_ddz_common/Image/laizi_bg_xzpx2.png
+- Assets/Game/normal_ddz_common/Image/freetable_imgf_down.png
+- Assets/Game/normal_ddz_common/Image/laizi_bg_xzpx1.png
+- Assets/Game/normal_ddz_common/Image/ty_bg_xzpx2.png
+- Assets/Game/normal_ddz_common/Image/game_imgf_font_19.png
+- Assets/Game/normal_ddz_common/Image/laizi_imgf_xzpx.png
+- Assets/Game/normal_ddz_common/Image/ty_bg_jipai_.png
+- Assets/Game/normal_ddz_common/Image/matchpop_bg_award.png
+- Assets/Game/normal_ddz_common/Image/laizi_btn_shortcut_title.png
+- Assets/Game/normal_ddz_common/Image/Ddz_2.png
+- Assets/Game/normal_ddz_common/Image/ty_imgf_title.png
+- Assets/Game/normal_ddz_common/Image/ddz_icon_cloud.png
+- Assets/Game/normal_ddz_common/Image/laizi_icon_jipai.png
+- Assets/Game/normal_ddz_common/Image/laizi_bg_condition.png
+Dependencies: []

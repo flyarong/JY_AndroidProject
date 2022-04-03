@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 3944617360
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb6d4c3be2671a34ede0aba869d9c532
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f5f72e227be8e50077cb63ab72d9f53
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_multiple_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_ranking(Font).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/account_font_jiabei_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/account_font_ranking_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/me_font_trophy_num_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_ranking250(Font).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/account_font_num2_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/me_font_trophy_num_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/com_tickets(Font).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_entry_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_Ranking_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_entry_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_anew(Material).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_ranking.png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_double_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/com_font_tickets_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_Ranking_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_ranking250.png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_jiabei(Font).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/com_font_tickets_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_cold-decking_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/match_num_currency(Material).mat
+- Assets/Game/CommonPrefab/Font/image_font/account_font_num2_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_clock_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_clock_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_ranking(Material).mat
+- Assets/Game/CommonPrefab/Font/image_font/account_font_jiabei_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/settlement_shenglishibaijiesuanshuzi.mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_-_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_anew.png
+- Assets/Game/CommonPrefab/Font/image_font/match_num_currency(Font).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_win.png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_multiple_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_-_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_multiple_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/account_font_num2_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_cold-decking_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/account_font_ranking_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/freetable_font_num_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_entry_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_ranking250(Material).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_jiabei.png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_ranking200(Font).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/match_hongbao.png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_Ranking_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/com_tickets.png
+- Assets/Game/CommonPrefab/Font/image_font/settlement_shenglishibaijiesuanshuzi.fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/settlement_shenglishibaijiesuanshuzi.png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_win(Material).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_jiabei(Font).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/com_font_tickets_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_anew(Font).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/account_font_ranking_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_double_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/freetable_font_num_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_win(Font).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_cold-decking_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_jiabei(Material).mat
+- Assets/Game/CommonPrefab/Font/image_font/me_font_trophy_num_0(Material)(Packed).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_jiabei(Material).mat
+- Assets/Game/CommonPrefab/Font/image_font/account_font_jiabei_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_ranking200(Material).mat
+- Assets/Game/CommonPrefab/Font/image_font/freetable_font_num_0(Font)(Packed).fontsettings
+- Assets/Game/CommonPrefab/Font/image_font/match_num_currency.png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_jiabei.png
+- Assets/Game/CommonPrefab/Font/image_font/com_tickets(Material).mat
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_double_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_-_0(Packed).png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_num_ranking200.png
+- Assets/Game/CommonPrefab/Font/image_font/ddz_font_clock_0(Material)(Packed).mat
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_shader.unity3d

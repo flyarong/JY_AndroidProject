@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3192395732
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77f0d75e6d5cc56648f5a1574e30797c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_25.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_15.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_34.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_28_1.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_21.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_11.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_23.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_30.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_20.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_19.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_8.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_28.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_29.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_14.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_6.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_22.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_17.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_5.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_37.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_10.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_27.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_7.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_36.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_26.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_12.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_16.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_9.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_18.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_33.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_35.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_32.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_24.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_13.mat
+- Assets/Game/normal_ddz_common/Particle/JYHD_TX/Textures/qipai/Materials/Ddz_31.mat
+Dependencies:
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/commonprefab/commonprefab_image_particle.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_image.unity3d
+- E:/JY/JyQipai_client/1_code/Assets/StreamingAssets/normal_ddz_common/normal_ddz_common_particle_jyhd_tx_textures_qipai.unity3d

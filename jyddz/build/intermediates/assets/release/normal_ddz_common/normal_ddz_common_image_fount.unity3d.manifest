@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 746807143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f15a132ac2bd0577f49b61e1e5d7a7d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light10.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly14.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light18.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light19.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly7.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light22.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light26.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly11.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly13.png
+- Assets/Game/normal_ddz_common/Image/fount/game_imgf_shunzi.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light16.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly8.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light21.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light8.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light6.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly20.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly6.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly27.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly23.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light17.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light4.png
+- Assets/Game/normal_ddz_common/Image/fount/game_imgf_airplane.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light11.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly10.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light5.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light30.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly12.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly17.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly25.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly2.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly16.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly1.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly24.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly3.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light15.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light28.png
+- Assets/Game/normal_ddz_common/Image/fount/game_imgf_kingbomb_1.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly18.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly9.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly26.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light24.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly4.png
+- Assets/Game/normal_ddz_common/Image/fount/game_imgf_bomb_1.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light3.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light23.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly5.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly22.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light29.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light27.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light2.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light7.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light31.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light14.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light25.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly19.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light13.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light20.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light9.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light12.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly15.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_fly21.png
+- Assets/Game/normal_ddz_common/Image/fount/game_imgf_liandui.png
+- Assets/Game/normal_ddz_common/Image/fount/ddz_ani_font_light1.png
+Dependencies: []

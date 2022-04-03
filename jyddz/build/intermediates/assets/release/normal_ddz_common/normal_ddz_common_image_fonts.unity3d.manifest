@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2688697109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a75ce6b63f058aeb61b3b5d68d24bdb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_ddz_common/Image/fonts/ddz_font_multiple.png
+- Assets/Game/normal_ddz_common/Image/fonts/ddz_imgf_fapai.png
+- Assets/Game/normal_ddz_common/Image/fonts/ddz_font_+.png
+- Assets/Game/normal_ddz_common/Image/fonts/ddz_font_cards.png
+- Assets/Game/normal_ddz_common/Image/fonts/ddz_font_Ranking.png
+- Assets/Game/normal_ddz_common/Image/fonts/ddz_font_clock.png
+- Assets/Game/normal_ddz_common/Image/fonts/ddz_font_-.png
+- Assets/Game/normal_ddz_common/Image/fonts/ddz_font_double.png
+- Assets/Game/normal_ddz_common/Image/fonts/ddz_font_cold-decking.png
+- Assets/Game/normal_ddz_common/Image/fonts/ddz_font_residue.png
+Dependencies: []

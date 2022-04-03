@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 2956692039
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1974db00333222610bfbcfdde90f3ac5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Image/Image/jiesuan_xijie_bg.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_hu.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_hu3.png
+- Assets/Game/normal_mj_common/Image/Image/liaotian.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_gang.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_fg.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_zimo3.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_green.png
+- Assets/Game/normal_mj_common/Image/Image/mj_bg_xueliu_light.png
+- Assets/Game/normal_mj_common/Image/Image/yuyin.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_hu2.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_prepare.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_peng.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_zimo.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_light.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_hu1.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_click.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_red.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_hehua.png
+- Assets/Game/normal_mj_common/Image/Image/xuezhandaodi.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_blue.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_bg_jiesuan2.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_zimo2.png
+- Assets/Game/normal_mj_common/Image/Image/mj_com_bg_title_lose.png
+- Assets/Game/normal_mj_common/Image/Image/help_MJ.png
+- Assets/Game/normal_mj_common/Image/Image/hupai_hint_btn.png
+- Assets/Game/normal_mj_common/Image/Image/mj_freetable_imgf_lose.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_jiantou.png
+- Assets/Game/normal_mj_common/Image/Image/mj_bg_xueliu.png
+- Assets/Game/normal_mj_common/Image/Image/jingyumajiang.png
+- Assets/Game/normal_mj_common/Image/Image/mj_font_inconformity.png
+- Assets/Game/normal_mj_common/Image/Image/jiesuan_bg.png
+- Assets/Game/normal_mj_common/Image/Image/mj_account_icon_trmpet_lose.png
+- Assets/Game/normal_mj_common/Image/Image/mj_com_bg_title_win.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_zimo1.png
+- Assets/Game/normal_mj_common/Image/Image/mj_freetable_imgf_win.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_zhuang.png
+- Assets/Game/normal_mj_common/Image/Image/mj_account_icon_trmpet_win.png
+- Assets/Game/normal_mj_common/Image/Image/mj_freetable_icon_light_1.png
+- Assets/Game/normal_mj_common/Image/Image/mj_game_icon_yellow.png
+Dependencies: []

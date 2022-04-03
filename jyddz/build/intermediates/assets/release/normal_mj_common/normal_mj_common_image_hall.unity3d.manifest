@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1116255495
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6f87b8ebf2403116cbaa058288ceb81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/normal_mj_common/Image/Hall/ml_freetable_bg_condition.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_btn_bg1.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_btn_bg4.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_btn_bg2.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_btn_bg6.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_btn_bg5.png
+- Assets/Game/normal_mj_common/Image/Hall/xuezhan_imgf_title.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_imgf_7.png
+- Assets/Game/normal_mj_common/Image/Hall/xueliu_imgf_title.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_imgf_6.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_imgf_2.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_imgf_4.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_btn_bg7.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_freetable_imgf_down.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_imgf_5.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_btn_bg3.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_btn_bg_down.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_imgf_1.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_imgf_3.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_imgf_8.png
+- Assets/Game/normal_mj_common/Image/Hall/mj_btn_bg8.png
+Dependencies: []

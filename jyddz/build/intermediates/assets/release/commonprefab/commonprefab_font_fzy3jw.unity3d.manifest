@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2492157582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47914ff620b7a641ed3b8a3371efd889
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0bb4c37c915d5352389eeb93c1a3b27a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/CommonPrefab/Font/FZY3JW/FZY3JW.TTF
+Dependencies: []
